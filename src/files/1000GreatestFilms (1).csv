@@ -1,0 +1,1001 @@
+Pos;2011;2010;Title;Director;Year;Country;Mins;Genre;Colour;Amazon;IMDB;Google
+1;1;1;Citizen Kane;Welles, Orson;1941;US;119;Drama;BW;Amazon;IMDB;Goog
+2;2;2;Vertigo;Hitchcock, Alfred;1958;US;128;Thriller-Drama-Mystery;Col;Amazon;IMDB;Goog
+3;3;3;Rules of the Game, The;Renoir, Jean;1939;France;113;Drama-Comedy;BW;Amazon;IMDB;Goog
+4;4;4;2001: A Space Odyssey;Kubrick, Stanley;1968;UK;139;Science Fiction;Col;Amazon;IMDB;Goog
+5;5;6;Godfather, The;Coppola, Francis;1972;US;175;Drama-Crime;Col;Amazon;IMDB;Goog
+6;6;5;8½;Fellini, Federico;1963;Italy;135;Drama;BW;Amazon;IMDB;Goog
+7;7;8;Seven Samurai, The;Kurosawa, Akira;1954;Japan;200;Drama-Action-Historical;BW;Amazon;IMDB;Goog
+8;8;7;Searchers, The;Ford, John;1956;US;119;Western;Col;Amazon;IMDB;Goog
+9;9;9;Singin' in the Rain;Donen, Stanley/Gene Kelly;1952;US;102;Musical-Dance-Comedy;Col;Amazon;IMDB;Goog
+10;10;10;Battleship Potemkin;Eisenstein, Sergei;1925;Russia;65;War-Historical;BW;Amazon;IMDB;Goog
+11;11;11;Tokyo Story;Ozu, Yasujiro;1953;Japan;134;Drama;BW;Amazon;IMDB;Goog
+12;12;12;Sunrise;Murnau, F.W.;1927;US;110;Romance-Drama-Crime;BW;Amazon;IMDB;Goog
+13;13;13;Lawrence of Arabia;Lean, David;1962;UK;216;War-Biography-Adventure;Col;Amazon;IMDB;Goog
+14;14;14;Bicycle Thieves;De Sica, Vittorio;1948;Italy;90;Drama;BW;Amazon;IMDB;Goog
+15;15;15;Godfather Part II, The;Coppola, Francis;1974;US;200;Drama-Crime;Col;Amazon;IMDB;Goog
+16;16;17;Casablanca;Curtiz, Michael;1942;US;102;War-Romance-Drama;BW;Amazon;IMDB;Goog
+17;17;16;Atalante, L';Vigo, Jean;1934;France;89;Romance-Drama;BW;Amazon;IMDB;Goog
+18;19;19;Raging Bull;Scorsese, Martin;1980;US;128;Sports-Drama-Biography;BW;Amazon;IMDB;Goog
+19;18;18;Rashomon;Kurosawa, Akira;1950;Japan;88;Drama-Crime;BW;Amazon;IMDB;Goog
+20;20;20;Passion of Joan of Arc, The;Dreyer, Carl;1928;France;77;Historical-Drama;BW;Amazon;IMDB;Goog
+21;21;21;Touch of Evil;Welles, Orson;1958;US;108;Thriller-Crime;BW;Amazon;IMDB;Goog
+22;26;26;Taxi Driver;Scorsese, Martin;1976;US;113;Drama;Col;Amazon;IMDB;Goog
+23;23;22;Some Like it Hot;Wilder, Billy;1959;US;119;Romance-Crime-Comedy;BW;Amazon;IMDB;Goog
+24;25;23;Dolce vita, La;Fellini, Federico;1960;Italy;175;Drama;BW;Amazon;IMDB;Goog
+25;22;24;Grande illusion, La;Renoir, Jean;1937;France;117;Prison-Drama-War;BW;Amazon;IMDB;Goog
+26;24;25;City Lights;Chaplin, Charles;1931;US;86;Romance-Comedy;BW;Amazon;IMDB;Goog
+27;29;30;Third Man, The;Reed, Carol;1949;UK;104;Thriller-Mystery;BW;Amazon;IMDB;Goog
+28;27;35;Apocalypse Now;Coppola, Francis;1979;US;150;War-Drama-Adventure;Col;Amazon;IMDB;Goog
+29;33;33;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;Kubrick, Stanley;1964;UK;93;War-Comedy;BW;Amazon;IMDB;Goog
+30;32;28;Psycho [1960];Hitchcock, Alfred;1960;US;109;Thriller-Horror;BW;Amazon;IMDB;Goog
+31;28;27;General, The [1926];Keaton, Buster/Clyde Bruckman;1926;US;74;Comedy-Adventure;BW;Amazon;IMDB;Goog
+32;30;34;Breathless [1959];Godard, Jean-Luc;1959;France;89;Romance-Drama-Crime;BW;Amazon;IMDB;Goog
+33;35;32;Gold Rush, The;Chaplin, Charles;1925;US;82;Comedy-Adventure-Family;BW;Amazon;IMDB;Goog
+34;31;31;Sunset Blvd.;Wilder, Billy;1950;US;110;Drama;BW;Amazon;IMDB;Goog
+35;36;41;400 Blows, The;Truffaut, François;1959;France;99;Drama;BW;Amazon;IMDB;Goog
+36;34;29;Enfants du paradis, Les;Carné, Marcel;1945;France;195;Romance-Drama;BW;Amazon;IMDB;Goog
+37;37;36;Chinatown;Polanski, Roman;1974;US;131;Mystery-Crime;Col;Amazon;IMDB;Goog
+38;38;40;Blade Runner;Scott, Ridley;1982;US;118;Science Fiction;Col;Amazon;IMDB;Goog
+39;40;38;Ordet;Dreyer, Carl;1955;Denmark;125;Religious-Drama;BW;Amazon;IMDB;Goog
+40;39;37;Night of the Hunter, The;Laughton, Charles;1955;US;93;Thriller;BW;Amazon;IMDB;Goog
+41;41;39;Avventura, L';Antonioni, Michelangelo;1960;Italy-France;145;Drama-Mystery-Romance;BW;Amazon;IMDB;Goog
+42;46;43;Andrei Rublev;Tarkovsky, Andrei;1966;USSR;185;Historical-Biography;Col-BW;Amazon;IMDB;Goog
+43;43;45;It's a Wonderful Life;Capra, Frank;1946;US;129;Fantasy-Drama-Family;BW;Amazon;IMDB;Goog
+44;44;48;M [1931];Lang, Fritz;1931;Germany;99;Thriller-Drama-Crime;BW;Amazon;IMDB;Goog
+45;42;42;Persona;Bergman, Ingmar;1966;Sweden;81;Drama;BW;Amazon;IMDB;Goog
+46;47;44;Rear Window;Hitchcock, Alfred;1954;US;112;Thriller-Mystery;Col;Amazon;IMDB;Goog
+47;45;49;Jules et Jim;Truffaut, François;1961;France;104;Romance-Drama;BW;Amazon;IMDB;Goog
+48;48;51;Wild Bunch, The;Peckinpah, Sam;1969;US;144;Western;Col;Amazon;IMDB;Goog
+49;49;47;Ugetsu monogatari;Mizoguchi, Kenji;1953;Japan;96;Drama;BW;Amazon;IMDB;Goog
+50;50;52;Contempt;Godard, Jean-Luc;1963;France-Italy;103;Drama;Col;Amazon;IMDB;Goog
+51;51;46;Magnificent Ambersons, The;Welles, Orson;1942;US;88;Drama;BW;Amazon;IMDB;Goog
+52;52;50;Strada, La;Fellini, Federico;1954;Italy;115;Drama;BW;Amazon;IMDB;Goog
+53;53;53;Seventh Seal, The;Bergman, Ingmar;1957;Sweden;96;Fantasy-Drama;BW;Amazon;IMDB;Goog
+54;55;55;Modern Times;Chaplin, Charles;1936;US;89;Comedy-Romance;BW;Amazon;IMDB;Goog
+55;54;54;Intolerance;Griffith, D.W.;1916;US;178;Historical-Drama;BW;Amazon;IMDB;Goog
+56;56;56;Wild Strawberries;Bergman, Ingmar;1957;Sweden;90;Drama;BW;Amazon;IMDB;Goog
+57;57;57;North by Northwest;Hitchcock, Alfred;1959;US;136;Thriller-Spy-Romance;Col;Amazon;IMDB;Goog
+58;59;58;Rio Bravo;Hawks, Howard;1959;US;141;Western;Col;Amazon;IMDB;Goog
+59;58;59;Apartment, The;Wilder, Billy;1960;US;125;Drama-Comedy;BW;Amazon;IMDB;Goog
+60;60;60;Au hasard Balthazar;Bresson, Robert;1966;France;95;Drama;BW;Amazon;IMDB;Goog
+61;66;66;Wizard of Oz, The;Fleming, Victor;1939;US;101;Musical-Fantasy-Family;Col-BW;Amazon;IMDB;Goog
+62;63;64;Pather Panchali;Ray, Satyajit;1955;India;112;Drama;BW;Amazon;IMDB;Goog
+63;61;62;Once Upon a Time in the West;Leone, Sergio;1968;Italy-US;165;Western;Col;Amazon;IMDB;Goog
+64;64;61;Gone with the Wind;Fleming, Victor;1939;US;222;Historical-Romance-Drama;Col;Amazon;IMDB;Goog
+65;65;65;Leopard, The;Visconti, Luchino;1963;Italy;205;Historical-Drama-War;Col;Amazon;IMDB;Goog
+66;62;63;Conformist, The;Bertolucci, Bernardo;1969;Italy-France-Germany;115;Political-Drama;Col;Amazon;IMDB;Goog
+67;67;68;Mirror, The;Tarkovsky, Andrei;1976;USSR;106;Drama;Col;Amazon;IMDB;Goog
+68;69;67;Greed;von Stroheim, Erich;1924;US;140;Drama;BW;Amazon;IMDB;Goog
+69;68;70;All About Eve;Mankiewicz, Joseph L.;1950;US;138;Drama;BW;Amazon;IMDB;Goog
+70;70;73;Viridiana;Buñuel, Luis;1961;Spain;90;Drama;BW;Amazon;IMDB;Goog
+71;71;69;Metropolis;Lang, Fritz;1926;Germany;120;Fantasy-Science Fiction-Drama;BW;Amazon;IMDB;Goog
+72;72;71;Man Who Shot Liberty Valance, The;Ford, John;1962;US;119;Western;BW;Amazon;IMDB;Goog
+73;75;89;Jaws;Spielberg, Steven;1975;US;124;Horror-Thriller-Adventure;Col;Amazon;IMDB;Goog
+74;79;91;Battle of Algiers, The;Pontecorvo, Gillo;1965;Algeria-Italy;123;War-Political-Drama;BW;Amazon;IMDB;Goog
+75;78;75;Fanny and Alexander;Bergman, Ingmar;1982;Sweden;189;Drama;Col;Amazon;IMDB;Goog
+76;76;74;Nashville;Altman, Robert;1975;US;159;Drama;Col;Amazon;IMDB;Goog
+77;74;76;Amarcord;Fellini, Federico;1973;Italy;127;Drama-Comedy;Col;Amazon;IMDB;Goog
+78;73;72;To Be or Not to Be [1942];Lubitsch, Ernst;1942;US;99;War-Comedy;BW;Amazon;IMDB;Goog
+79;84;84;Barry Lyndon;Kubrick, Stanley;1975;UK;183;Drama;Col;Amazon;IMDB;Goog
+80;77;90;Clockwork Orange, A;Kubrick, Stanley;1971;UK;137;Science Fiction-Crime-Drama;Col;Amazon;IMDB;Goog
+81;80;77;Notorious;Hitchcock, Alfred;1946;US;101;Romance-Thriller-Mystery;BW;Amazon;IMDB;Goog
+82;81;83;Stagecoach;Ford, John;1939;US;96;Western-Action-Drama;BW;Amazon;IMDB;Goog
+83;83;79;Ikiru;Kurosawa, Akira;1952;Japan;143;Drama;BW;Amazon;IMDB;Goog
+84;82;87;Sansho the Bailiff;Mizoguchi, Kenji;1954;Japan;125;Drama;BW;Amazon;IMDB;Goog
+85;89;85;Aguirre: The Wrath of God;Herzog, Werner;1972;Germany;94;Historical-Drama-Adventure;Col;Amazon;IMDB;Goog
+86;86;92;Pierrot le fou;Godard, Jean-Luc;1965;France-Italy;110;Romance-Drama-Crime;Col;Amazon;IMDB;Goog
+87;96;105;Annie Hall;Allen, Woody;1977;US;94;Romance-Comedy;Col;Amazon;IMDB;Goog
+88;85;78;Madame de...;Ophüls, Max;1953;France-Italy;105;Romance-Drama;BW;Amazon;IMDB;Goog
+89;98;97;Double Indemnity;Wilder, Billy;1944;US;106;Mystery-Crime;BW;Amazon;IMDB;Goog
+90;92;88;Playtime;Tati, Jacques;1967;France;108;Comedy;Col;Amazon;IMDB;Goog
+91;90;94;On the Waterfront;Kazan, Elia;1954;US;108;Drama;BW;Amazon;IMDB;Goog
+92;87;86;Voyage in Italy;Rossellini, Roberto;1953;Italy;97;Romance-Drama;BW;Amazon;IMDB;Goog
+93;88;81;Pickpocket;Bresson, Robert;1959;France;75;Drama-Crime;BW;Amazon;IMDB;Goog
+94;91;82;Letter from an Unknown Woman;Ophüls, Max;1948;US;90;Romance-Drama;BW;Amazon;IMDB;Goog
+95;94;80;Bringing Up Baby;Hawks, Howard;1938;US;102;Romance-Comedy;BW;Amazon;IMDB;Goog
+96;95;95;My Darling Clementine;Ford, John;1946;US;97;Western;BW;Amazon;IMDB;Goog
+97;102;101;Man with a Movie Camera, The;Vertov, Dziga;1929;USSR;80;Documentary-Avant-Garde;BW;Amazon;IMDB;Goog
+98;97;98;Rome, Open City;Rossellini, Roberto;1945;Italy;105;War-Drama;BW;Amazon;IMDB;Goog
+99;93;96;GoodFellas;Scorsese, Martin;1990;US;146;Drama-Crime;Col;Amazon;IMDB;Goog
+100;100;104;Star Wars;Lucas, George;1977;US;121;Science Fiction-Fantasy-Adventure;Col;Amazon;IMDB;Goog
+101;99;93;Last Year at Marienbad;Resnais, Alain;1961;France-Italy;94;Drama-Mystery-Avant-Garde;BW;Amazon;IMDB;Goog
+102;105;99;Blue Velvet;Lynch, David;1986;US;120;Mystery-Crime-Drama;Col;Amazon;IMDB;Goog
+103;103;103;Nosferatu;Murnau, F.W.;1922;Germany;84;Horror;BW;Amazon;IMDB;Goog
+104;104;100;Duck Soup;McCarey, Leo;1933;US;70;Comedy;BW;Amazon;IMDB;Goog
+105;101;106;His Girl Friday;Hawks, Howard;1940;US;92;Romance-Comedy;BW;Amazon;IMDB;Goog
+106;108;110;King Kong [1933];Cooper, Merian C./Ernest B. Schoedsack;1933;US;103;Fantasy-Adventure-Horror;BW;Amazon;IMDB;Goog
+107;106;102;Âge d'or, L';Buñuel, Luis;1930;France;63;Drama-Avant-Garde-Experimental;BW;Amazon;IMDB;Goog
+108;107;108;Napoléon [1927];Gance, Abel;1927;France;235;War-Historical-Biography;BW;Amazon;IMDB;Goog
+109;109;107;Hiroshima mon amour;Resnais, Alain;1959;France-Japan;91;Drama;BW;Amazon;IMDB;Goog
+110;110;109;Lady Eve, The;Sturges, Preston;1941;US;94;Romance-Comedy;BW;Amazon;IMDB;Goog
+111;118;114;Manhattan;Allen, Woody;1979;US;96;Romance-Comedy;BW;Amazon;IMDB;Goog
+112;111;111;Gertrud;Dreyer, Carl;1964;Denmark;116;Drama;BW;Amazon;IMDB;Goog
+113;117;137;Shining, The;Kubrick, Stanley;1980;US;142;Horror;Col;Amazon;IMDB;Goog
+114;115;127;Mean Streets;Scorsese, Martin;1973;US;110;Drama-Crime;Col;Amazon;IMDB;Goog
+115;113;113;Olvidados, Los;Buñuel, Luis;1950;Mexico;88;Drama-Crime;BW;Amazon;IMDB;Goog
+116;123;130;Pulp Fiction;Tarantino, Quentin;1994;US;154;Drama-Crime-Comedy;Col;Amazon;IMDB;Goog
+117;112;112;Stalker;Tarkovsky, Andrei;1979;USSR;160;Science Fiction-Mystery;Col-BW;Amazon;IMDB;Goog
+118;119;121;Out of the Past;Tourneur, Jacques;1947;US;97;Thriller-Mystery-Crime;BW;Amazon;IMDB;Goog
+119;114;122;E.T. The Extra-Terrestrial;Spielberg, Steven;1982;US;115;Science Fiction-Family;Col;Amazon;IMDB;Goog
+120;116;116;Ran;Kurosawa, Akira;1985;France-Japan;161;War-Historical-Drama;Col;Amazon;IMDB;Goog
+121;120;124;McCabe & Mrs. Miller;Altman, Robert;1971;US;121;Western-Drama;Col;Amazon;IMDB;Goog
+122;132;149;One Flew Over the Cuckoo's Nest;Forman, Milos;1975;US;133;Drama;Col;Amazon;IMDB;Goog
+123;124;118;Paisan;Rossellini, Roberto;1946;Italy;120;War-Drama;BW;Amazon;IMDB;Goog
+124;121;129;Grapes of Wrath, The;Ford, John;1940;US;129;Drama;BW;Amazon;IMDB;Goog
+125;137;138;Matter of Life and Death, A;Powell, Michael/Emeric Pressburger;1946;UK;104;Romance-Fantasy-Comedy;Col;Amazon;IMDB;Goog
+126;125;119;Broken Blossoms;Griffith, D.W.;1919;US;90;Romance-Drama;BW;Amazon;IMDB;Goog
+127;147;143;Don't Look Now;Roeg, Nicolas;1973;UK;110;Mystery-Thriller;Col;Amazon;IMDB;Goog
+128;134;133;Birth of a Nation, The;Griffith, D.W.;1915;US;187;War-Historical-Drama;BW;Amazon;IMDB;Goog
+129;127;117;Exterminating Angel, The;Buñuel, Luis;1962;Mexico;95;Drama-Fantasy-Mystery;BW;Amazon;IMDB;Goog
+130;126;126;Ashes and Diamonds;Wajda, Andrzej;1958;Poland;96;War-Drama-Political;BW;Amazon;IMDB;Goog
+131;130;141;Best Years of Our Lives, The;Wyler, William;1946;US;172;War-Drama;BW;Amazon;IMDB;Goog
+132;129;115;Sherlock Jr.;Keaton, Buster;1924;US;44;Fantasy-Comedy;BW;Amazon;IMDB;Goog
+133;122;120;Treasure of the Sierra Madre, The;Huston, John;1948;US;124;Adventure-Drama-Western;BW;Amazon;IMDB;Goog
+134;128;139;Close Encounters of the Third Kind;Spielberg, Steven;1977;US;135;Science Fiction-Adventure;Col;Amazon;IMDB;Goog
+135;138;132;Red Shoes, The;Powell, Michael/Emeric Pressburger;1948;UK;133;Dance-Musical-Drama;Col;Amazon;IMDB;Goog
+136;133;125;Vivre sa vie;Godard, Jean-Luc;1963;France;85;Drama;BW;Amazon;IMDB;Goog
+137;131;123;Umberto D.;De Sica, Vittorio;1952;Italy;89;Drama;BW;Amazon;IMDB;Goog
+138;152;140;Life and Death of Colonel Blimp, The;Powell, Michael/Emeric Pressburger;1943;UK;163;War-Drama;Col;Amazon;IMDB;Goog
+139;158;163;Brazil;Gilliam, Terry;1985;UK;131;Science Fiction-Fantasy;Col;Amazon;IMDB;Goog
+140;136;128;Sullivan's Travels;Sturges, Preston;1941;US;91;Romance-Comedy;BW;Amazon;IMDB;Goog
+141;141;154;Days of Heaven;Malick, Terrence;1978;US;95;Romance-Drama;Col;Amazon;IMDB;Goog
+142;153;147;Brief Encounter;Lean, David;1945;UK;85;Romance-Drama;BW;Amazon;IMDB;Goog
+143;135;136;Earth [1930];Dovzhenko, Alexander;1930;Russia;90;Drama;BW;Amazon;IMDB;Goog
+144;146;144;Bonnie and Clyde;Penn, Arthur;1967;US;111;Drama-Crime-Biography;Col;Amazon;IMDB;Goog
+145;154;146;Black Narcissus;Powell, Michael/Emeric Pressburger;1946;UK;99;Drama-Religious;Col;Amazon;IMDB;Goog
+146;140;131;Dekalog;Kieslowski, Krszystof;1988;Poland;550;Drama;Col;Amazon;IMDB;Goog
+147;143;148;Once Upon a Time in America;Leone, Sergio;1984;US;227;Drama-Crime;Col;Amazon;IMDB;Goog
+148;155;153;Cabinet of Dr. Caligari, The;Wiene, Robert;1919;Germany;69;Horror-Fantasy;BW;Amazon;IMDB;Goog
+149;139;155;Badlands;Malick, Terrence;1973;US;95;Drama-Crime;Col;Amazon;IMDB;Goog
+150;150;156;Band Wagon, The;Minnelli, Vincente;1953;US;112;Musical-Dance-Comedy;Col;Amazon;IMDB;Goog
+151;144;142;Chimes at Midnight;Welles, Orson;1966;Spain-Switzerland;115;War-Drama-Comedy;BW;Amazon;IMDB;Goog
+152;162;169;Maltese Falcon, The [1941];Huston, John;1941;US;100;Mystery;BW;Amazon;IMDB;Goog
+153;163;185;Exorcist, The;Friedkin, William;1973;US;121;Horror;Col;Amazon;IMDB;Goog
+154;149;160;Woman Under the Influence, A;Cassavetes, John;1974;US;155;Drama;Col;Amazon;IMDB;Goog
+155;142;135;Jetée, La;Marker, Chris;1962;France;27;Science Fiction-Drama-Short;BW;Amazon;IMDB;Goog
+156;148;174;Quiet Man, The;Ford, John;1952;US;129;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+157;145;134;Man Escaped, A;Bresson, Robert;1956;France;102;Prison-Drama;BW;Amazon;IMDB;Goog
+158;167;184;Nights of Cabiria;Fellini, Federico;1957;Italy-France;110;Drama;BW;Amazon;IMDB;Goog
+159;160;161;Rocco and His Brothers;Visconti, Luchino;1960;Italy-France;180;Drama;BW;Amazon;IMDB;Goog
+160;159;150;Red River;Hawks, Howard;1948;US;133;Western;BW;Amazon;IMDB;Goog
+161;157;152;Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles;Akerman, Chantal;1975;Belgium-France;201;Drama-Avant-Garde;Col;Amazon;IMDB;Goog
+162;156;145;Philadelphia Story, The;Cukor, George;1940;US;112;Romance-Comedy;BW;Amazon;IMDB;Goog
+163;164;177;Freaks;Browning, Tod;1932;US;64;Horror-Drama;BW;Amazon;IMDB;Goog
+164;151;166;Conversation, The;Coppola, Francis;1974;US;113;Thriller-Drama-Crime;Col;Amazon;IMDB;Goog
+165;170;167;Chien andalou, Un;Buñuel, Luis;1928;France;16;Horror-Fantasy-Avant-Garde;BW;Amazon;IMDB;Goog
+166;161;151;Belle de jour;Buñuel, Luis;1967;France-Italy;100;Drama;Col;Amazon;IMDB;Goog
+167;171;165;Good, the Bad and the Ugly, The;Leone, Sergio;1966;Italy-Spain;161;Western-Action;Col;Amazon;IMDB;Goog
+168;176;179;Do the Right Thing;Lee, Spike;1989;US;120;Drama-Comedy;Col;Amazon;IMDB;Goog
+169;166;159;Shoah;Lanzmann, Claude;1985;France;566;Documentary;Col;Amazon;IMDB;Goog
+170;168;172;Trouble in Paradise;Lubitsch, Ernst;1932;US;83;Romance-Comedy;BW;Amazon;IMDB;Goog
+171;165;170;Partie de campagne;Renoir, Jean;1936;France;40;Romance-Drama-Short;BW;Amazon;IMDB;Goog
+172;169;157;Ivan the Terrible, Part Two;Eisenstein, Sergei;1946;USSR;88;Historical-Drama-Biography;BW;Amazon;IMDB;Goog
+173;175;162;Cries and Whispers;Bergman, Ingmar;1972;Sweden;106;Drama;Col;Amazon;IMDB;Goog
+174;182;188;Raiders of the Lost Ark;Spielberg, Steven;1981;US;115;Adventure-Action;Col;Amazon;IMDB;Goog
+175;173;158;Sweet Smell of Success;Mackendrick, Alexander;1957;US;96;Drama;BW;Amazon;IMDB;Goog
+176;201;214;Night of the Living Dead;Romero, George A.;1968;US;96;Horror;BW;Amazon;IMDB;Goog
+177;186;216;Alien;Scott, Ridley;1979;US;117;Science Fiction-Horror;Col;Amazon;IMDB;Goog
+178;194;215;Graduate, The;Nichols, Mike;1967;US;105;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+179;172;205;Deer Hunter, The;Cimino, Michael;1978;US;183;War-Drama;Col;Amazon;IMDB;Goog
+180;178;206;Wages of Fear, The;Clouzot, Henri-Georges;1952;France-Italy;105;Thriller-Adventure-Action;BW;Amazon;IMDB;Goog
+181;177;171;Travelling Players, The;Angelopoulos, Theo;1975;Greece;230;Political-Drama;Col;Amazon;IMDB;Goog
+182;179;181;Gospel According to St. Matthew, The;Pasolini, Pier Paolo;1964;France-Italy;135;Religious-Drama;BW;Amazon;IMDB;Goog
+183;207;192;Blow-Up;Antonioni, Michelangelo;1966;Italy-UK;111;Mystery-Drama;Col;Amazon;IMDB;Goog
+184;174;164;Ivan the Terrible, Part One;Eisenstein, Sergei;1944;Russia;96;Historical-Drama-Biography;BW;Amazon;IMDB;Goog
+185;181;175;Belle et la bête, La;Cocteau, Jean;1946;France;95;Fantasy;BW;Amazon;IMDB;Goog
+186;185;198;Great Dictator, The;Chaplin, Charles;1940;US;128;War-Comedy-Political;BW;Amazon;IMDB;Goog
+187;183;178;Last Laugh, The;Murnau, F.W.;1924;Germany;77;Drama;BW;Amazon;IMDB;Goog
+188;180;168;Palm Beach Story, The;Sturges, Preston;1942;US;90;Romance-Comedy;BW;Amazon;IMDB;Goog
+189;191;186;Performance;Roeg, Nicolas/Donald Cammell;1970;UK;105;Drama;Col;Amazon;IMDB;Goog
+190;188;183;Vampyr;Dreyer, Carl;1932;France-Germany;73;Horror;BW;Amazon;IMDB;Goog
+191;184;176;Mother and the Whore, The;Eustache, Jean;1973;France;210;Drama;BW;Amazon;IMDB;Goog
+192;189;173;Discreet Charm of the Bourgeoisie, The;Buñuel, Luis;1972;France;100;Fantasy-Drama-Comedy;Col;Amazon;IMDB;Goog
+193;225;207;Kind Hearts and Coronets;Hamer, Robert;1949;UK;104;Comedy;BW;Amazon;IMDB;Goog
+194;192;191;Paths of Glory;Kubrick, Stanley;1957;US;86;War-Drama;BW;Amazon;IMDB;Goog
+195;202;220;Bridge on the River Kwai, The;Lean, David;1957;UK;161;War-Drama-Action;Col;Amazon;IMDB;Goog
+196;197;194;It Happened One Night;Capra, Frank;1934;US;105;Romance-Comedy;BW;Amazon;IMDB;Goog
+197;211;246;In the Mood for Love;Wong Kar-wai;2000;Hong Kong-France;97;Romance-Drama;Col;Amazon;IMDB;Goog
+198;203;213;Bride of Frankenstein;Whale, James;1935;US;75;Horror-Science Fiction;BW;Amazon;IMDB;Goog
+199;187;180;World of Apu, The;Ray, Satyajit;1959;India;103;Drama;BW;Amazon;IMDB;Goog
+200;190;187;Death in Venice;Visconti, Luchino;1971;Italy;130;Drama;Col;Amazon;IMDB;Goog
+201;200;217;Unforgiven;Eastwood, Clint;1992;US;127;Western;Col;Amazon;IMDB;Goog
+202;193;182;Monsieur Verdoux;Chaplin, Charles;1947;US;123;Crime-Comedy;BW;Amazon;IMDB;Goog
+203;215;223;Peeping Tom;Powell, Michael;1960;UK;109;Thriller-Drama;BW;Amazon;IMDB;Goog
+204;210;193;Eclisse, L';Antonioni, Michelangelo;1962;France-Italy;123;Drama;BW;Amazon;IMDB;Goog
+205;198;203;Schindler's List;Spielberg, Steven;1993;US;195;War-Historical-Drama;Col-BW;Amazon;IMDB;Goog
+206;196;209;Shop Around the Corner, The;Lubitsch, Ernst;1940;US;97;Romance-Comedy;BW;Amazon;IMDB;Goog
+207;195;195;Late Spring;Ozu, Yasujiro;1949;Japan;108;Romance-Drama-Family;BW;Amazon;IMDB;Goog
+208;220;234;Texas Chainsaw Massacre, The [1974];Hooper, Tobe;1974;US;83;Thriller-Horror;Col;Amazon;IMDB;Goog
+209;208;218;Rosemary's Baby;Polanski, Roman;1968;US;136;Thriller-Horror-Drama;Col;Amazon;IMDB;Goog
+210;209;221;Johnny Guitar;Ray, Nicholas;1954;US;110;Western;Col;Amazon;IMDB;Goog
+211;216;201;Sans soleil;Marker, Chris;1983;France;100;Avant-Garde-Documentary;Col;Amazon;IMDB;Goog
+212;199;197;River, The [1951];Renoir, Jean;1951;US-India;99;Romance-Drama;Col;Amazon;IMDB;Goog
+213;224;243;Snow White and the Seven Dwarfs;Hand, David;1937;US;83;Animated-Family-Fantasy;Col;Amazon;IMDB;Goog
+214;212;200;Ali: Fear Eats the Soul;Fassbinder, Rainer Werner;1974;Germany;94;Romance-Drama;Col;Amazon;IMDB;Goog
+215;217;202;Crowd, The;Vidor, King;1928;US;104;Drama;BW;Amazon;IMDB;Goog
+216;204;189;Music Room, The;Ray, Satyajit;1958;India;95;Drama;BW;Amazon;IMDB;Goog
+217;214;208;Umbrellas of Cherbourg, The;Demy, Jacques;1964;France-Germany;91;Romance-Musical-Drama;Col;Amazon;IMDB;Goog
+218;205;190;Celine and Julie Go Boating;Rivette, Jacques;1974;France;192;Fantasy-Drama-Avant-Garde;Col;Amazon;IMDB;Goog
+219;206;196;Throne of Blood;Kurosawa, Akira;1957;Japan;108;War-Drama;BW;Amazon;IMDB;Goog
+220;218;219;Close-Up;Kiarostami, Abbas;1989;Iran;93;Documentary-Drama-Crime;Col;Amazon;IMDB;Goog
+221;213;199;Pandora's Box;Pabst, G.W.;1928;Germany;110;Drama-Crime-Romance;BW;Amazon;IMDB;Goog
+222;221;226;Only Angels Have Wings;Hawks, Howard;1939;US;121;Drama-Adventure-Romance;BW;Amazon;IMDB;Goog
+223;234;244;Crimes and Misdemeanors;Allen, Woody;1989;US;104;Drama-Comedy;Col;Amazon;IMDB;Goog
+224;230;227;Solaris [1972];Tarkovsky, Andrei;1972;USSR;165;Science Fiction-Drama-Mystery;Col-BW;Amazon;IMDB;Goog
+225;223;229;Samouraï, Le;Melville, Jean-Pierre;1967;France;95;Thriller-Crime;Col;Amazon;IMDB;Goog
+226;226;204;Spirit of the Beehive, The;Erice, Victor;1973;Spain;95;Drama;Col;Amazon;IMDB;Goog
+227;219;241;Shoot the Piano Player;Truffaut, François;1960;France;92;Drama-Crime-Thriller;BW;Amazon;IMDB;Goog
+228;227;211;Tabu;Murnau, F.W.;1931;US;82;Romance-Drama-Adventure;BW;Amazon;IMDB;Goog
+229;222;212;Written on the Wind;Sirk, Douglas;1956;US;99;Drama;Col;Amazon;IMDB;Goog
+230;228;210;Argent, L' [1983];Bresson, Robert;1983;France-Switzerland;90;Drama-Crime;Col;Amazon;IMDB;Goog
+231;229;232;Mr. Hulot's Holiday;Tati, Jacques;1953;France;86;Comedy;BW;Amazon;IMDB;Goog
+232;239;239;Nanook of the North;Flaherty, Robert;1922;US;79;Documentary;BW;Amazon;IMDB;Goog
+233;231;238;Cinema Paradiso;Tornatore, Giuseppe;1988;Italy-France;123;Drama-Comedy;Col;Amazon;IMDB;Goog
+234;238;224;Notte, La;Antonioni, Michelangelo;1961;Italy-France;120;Drama;BW;Amazon;IMDB;Goog
+235;270;283;Last Picture Show, The;Bogdanovich, Peter;1971;US;118;Drama;BW;Amazon;IMDB;Goog
+236;232;222;Alexander Nevsky;Eisenstein, Sergei;1938;USSR;107;War-Historical-Biography;BW;Amazon;IMDB;Goog
+237;241;274;Empire Strikes Back, The;Kershner, Irvin;1980;US;124;Science Fiction-Fantasy-Adventure;Col;Amazon;IMDB;Goog
+238;233;225;Imitation of Life [1959];Sirk, Douglas;1959;US;124;Drama-Romance;Col;Amazon;IMDB;Goog
+239;242;231;Meet Me in St. Louis;Minnelli, Vincente;1944;US;113;Musical-Family-Drama;Col;Amazon;IMDB;Goog
+240;235;240;Orpheus;Cocteau, Jean;1950;France;95;Romance-Fantasy-Drama;BW;Amazon;IMDB;Goog
+241;237;235;To Kill a Mockingbird;Mulligan, Robert;1962;US;129;Drama;BW;Amazon;IMDB;Goog
+242;236;230;Birds, The;Hitchcock, Alfred;1963;US;120;Horror;Col;Amazon;IMDB;Goog
+243;248;245;Sátántangó;Tarr, Béla;1994;Hungary-Germany-Switzerland;450;Drama;BW;Amazon;IMDB;Goog
+244;249;264;Fantasia;Sharpsteen, Ben;1940;US;120;Fantasy-Family-Animated;Col;Amazon;IMDB;Goog
+245;240;228;Berlin Alexanderplatz;Fassbinder, Rainer Werner;1980;Germany;931;Drama-Historical-Political;Col;Amazon;IMDB;Goog
+246;245;233;Star is Born, A [1954];Cukor, George;1954;US;154;Musical-Drama;Col;Amazon;IMDB;Goog
+247;246;242;Diary of a Country Priest;Bresson, Robert;1950;France;120;Religious-Drama;BW;Amazon;IMDB;Goog
+248;244;248;Passenger, The;Antonioni, Michelangelo;1975;Italy;119;Drama;Col;Amazon;IMDB;Goog
+249;247;236;Week-End;Godard, Jean-Luc;1967;France-Italy;103;Drama;Col;Amazon;IMDB;Goog
+250;254;250;Last Tango in Paris;Bertolucci, Bernardo;1973;France-Italy;129;Romance-Drama-Adult;Col;Amazon;IMDB;Goog
+251;243;251;Germany, Year Zero;Rossellini, Roberto;1947;Italy-West Germany;74;War-Drama;BW;Amazon;IMDB;Goog
+252;251;249;Senso;Visconti, Luchino;1954;Italy;115;War-Drama-Romance;Col;Amazon;IMDB;Goog
+253;252;247;Zero for Conduct;Vigo, Jean;1933;France;41;Short-Drama;BW;Amazon;IMDB;Goog
+254;259;257;Wings of Desire;Wenders, Wim;1987;France-West Germany;130;Fantasy-Drama;Col-BW;Amazon;IMDB;Goog
+255;253;237;Night at the Opera, A;Wood, Sam;1935;US;92;Romance-Musical-Comedy;BW;Amazon;IMDB;Goog
+256;250;252;Two or Three Things I Know About Her;Godard, Jean-Luc;1966;France;95;Drama;Col;Amazon;IMDB;Goog
+257;275;289;Midnight Cowboy;Schlesinger, John;1969;US;113;Drama;Col;Amazon;IMDB;Goog
+258;256;253;Salo, or the 120 Days of Sodom;Pasolini, Pier Paolo;1975;Italy;117;Horror-Drama-Political;Col;Amazon;IMDB;Goog
+259;267;268;Fargo;Coen, Joel and Ethan Coen;1995;US;97;Thriller-Crime-Comedy;Col;Amazon;IMDB;Goog
+260;264;259;Terminator, The;Cameron, James;1984;US;108;Science Fiction-Action;Col;Amazon;IMDB;Goog
+261;262;269;In the Realm of the Senses;Oshima, Nagisa;1976;France-Japan;108;Drama-Adult-Romance;Col;Amazon;IMDB;Goog
+262;271;276;Dawn of the Dead [1978];Romero, George A.;1978;US;126;Horror-Action;Col;Amazon;IMDB;Goog
+263;260;258;Life of Oharu, The;Mizoguchi, Kenji;1952;Japan;146;Drama;BW;Amazon;IMDB;Goog
+264;273;281;Cabaret;Fosse, Bob;1972;US;128;Musical-Drama-Dance;Col;Amazon;IMDB;Goog
+265;255;254;Story of the Late Chrysanthemums, The;Mizoguchi, Kenji;1939;Japan;143;Romance-Drama;BW;Amazon;IMDB;Goog
+266;266;266;Shane;Stevens, George;1953;US;118;Western-Drama;Col;Amazon;IMDB;Goog
+267;257;277;Crime of Monsieur Lange, The;Renoir, Jean;1936;France;90;Drama-Crime-Comedy;BW;Amazon;IMDB;Goog
+268;261;261;Blue Angel, The;von Sternberg, Josef;1930;Germany;103;Drama;BW;Amazon;IMDB;Goog
+269;258;260;To Have and Have Not;Hawks, Howard;1944;US;100;Romance-Drama;BW;Amazon;IMDB;Goog
+270;265;256;Ninotchka;Lubitsch, Ernst;1939;US;110;Romance-Comedy;BW;Amazon;IMDB;Goog
+271;263;267;Day of Wrath;Dreyer, Carl;1943;Denmark;110;Drama;BW;Amazon;IMDB;Goog
+272;282;279;Big Sleep, The;Hawks, Howard;1946;US;114;Mystery-Crime;BW;Amazon;IMDB;Goog
+273;279;336;Yojimbo;Kurosawa, Akira;1961;Japan;110;Drama-Action;BW;Amazon;IMDB;Goog
+274;276;275;West Side Story;Wise, Robert/Jerome Robbins;1961;US;151;Romance-Musical-Dance;Col;Amazon;IMDB;Goog
+275;354;415;Harold and Maude;Ashby, Hal;1971;US;90;Comedy;Col;Amazon;IMDB;Goog
+276;293;374;Mulholland Dr.;Lynch, David;2001;France-US;146;Mystery-Drama;Col;Amazon;IMDB;Goog
+277;288;306;Asphalt Jungle, The;Huston, John;1950;US;112;Thriller-Crime;BW;Amazon;IMDB;Goog
+278;268;262;Tree of Wooden Clogs, The;Olmi, Ermanno;1978;Italy;185;Drama;Col;Amazon;IMDB;Goog
+279;269;263;Day for Night;Truffaut, François;1973;France;120;Drama-Comedy;Col;Amazon;IMDB;Goog
+280;340;343;Easy Rider;Hopper, Dennis;1969;US;94;Drama;Col;Amazon;IMDB;Goog
+281;286;284;Night and Fog;Resnais, Alain;1955;France;32;War-Documentary-Short;Col-BW;Amazon;IMDB;Goog
+282;377;427;Dog Day Afternoon;Lumet, Sidney;1975;US;130;Drama-Crime;Col;Amazon;IMDB;Goog
+283;277;270;1900;Bertolucci, Bernardo;1976;France-Germany-Italy;311;Political-Drama;Col;Amazon;IMDB;Goog
+284;272;271;Floating Clouds;Naruse, Mikio;1955;Japan;123;Romance-Drama;BW;Amazon;IMDB;Goog
+285;291;367;Halloween;Carpenter, John;1978;US;93;Horror-Thriller;Col;Amazon;IMDB;Goog
+286;278;273;Lola Montès;Ophüls, Max;1955;France;110;Drama-Biography;Col;Amazon;IMDB;Goog
+287;280;286;Make Way for Tomorrow;McCarey, Leo;1937;US;92;Drama;BW;Amazon;IMDB;Goog
+288;281;297;Kid, The;Chaplin, Charles;1921;US;60;Drama-Comedy-Family;BW;Amazon;IMDB;Goog
+289;285;272;Mouchette;Bresson, Robert;1966;France;80;Drama;BW;Amazon;IMDB;Goog
+290;298;309;Shadows;Cassavetes, John;1959;US;87;Drama;BW;Amazon;IMDB;Goog
+291;290;293;Strangers on a Train;Hitchcock, Alfred;1951;US;101;Thriller-Drama-Crime;BW;Amazon;IMDB;Goog
+292;348;324;Network;Lumet, Sidney;1976;US;121;Drama;Col;Amazon;IMDB;Goog
+293;300;312;Come and See;Klimov, Elem;1985;Russia;142;War-Drama;Col;Amazon;IMDB;Goog
+294;308;342;Black God, White Devil;Rocha, Glauber;1964;Brazil;110;Political-Drama-Crime;BW;Amazon;IMDB;Goog
+295;284;310;Red Desert;Antonioni, Michelangelo;1964;France-Italy;118;Drama;Col;Amazon;IMDB;Goog
+296;283;282;My Night at Maud's;Rohmer, Eric;1969;France;105;Romance-Drama;BW;Amazon;IMDB;Goog
+297;294;330;King of Comedy, The;Scorsese, Martin;1983;US;109;Drama-Comedy;Col;Amazon;IMDB;Goog
+298;292;301;In a Lonely Place;Ray, Nicholas;1950;US;91;Drama-Mystery-Romance;BW;Amazon;IMDB;Goog
+299;295;299;Scarlet Empress, The;von Sternberg, Josef;1934;US;110;Historical-Drama-Biography;BW;Amazon;IMDB;Goog
+300;297;285;Million, Le;Clair, René;1931;France;85;Comedy-Musical;BW;Amazon;IMDB;Goog
+301;287;278;All That Heaven Allows;Sirk, Douglas;1955;US;89;Romance-Drama;Col;Amazon;IMDB;Goog
+302;321;446;Yi yi;Yang, Edward;2000;Taiwan-Japan;173;Drama;Col;Amazon;IMDB;Goog
+303;289;313;Paris, Texas;Wenders, Wim;1984;US;150;Drama;Col;Amazon;IMDB;Goog
+304;310;288;Laura;Preminger, Otto;1944;US;85;Mystery-Romance-Thriller;BW;Amazon;IMDB;Goog
+305;311;255;High Noon;Zinnemann, Fred;1952;US;84;Western;BW;Amazon;IMDB;Goog
+306;302;298;Kiss Me Deadly;Aldrich, Robert;1955;US;105;Crime-Thriller;BW;Amazon;IMDB;Goog
+307;322;344;Five Easy Pieces;Rafelson, Bob;1970;US;98;Drama;Col;Amazon;IMDB;Goog
+308;336;328;39 Steps, The;Hitchcock, Alfred;1935;UK;87;Spy-Thriller;BW;Amazon;IMDB;Goog
+309;306;335;Thief of Bagdad, The [1940];Powell, Michael/Ludwig Berger/Tim Whelan;1940;UK;106;Fantasy-Family-Adventure;Col;Amazon;IMDB;Goog
+310;299;291;Wind, The;Sjöström, Victor;1928;US;88;Drama;BW;Amazon;IMDB;Goog
+311;319;316;Top Hat;Sandrich, Mark;1935;US;99;Romance-Musical-Comedy;BW;Amazon;IMDB;Goog
+312;305;353;Cameraman, The;Keaton, Buster/Edward Sedgwick;1928;US;69;Romance-Comedy;BW;Amazon;IMDB;Goog
+313;304;303;Aliens;Cameron, James;1986;US;137;Science Fiction-Horror-Action;Col;Amazon;IMDB;Goog
+314;296;296;African Queen, The;Huston, John;1951;US;105;Romance-Adventure;Col;Amazon;IMDB;Goog
+315;331;325;Triumph of the Will;Riefenstahl, Leni;1935;Germany;110;Documentary-Historical-Political;BW;Amazon;IMDB;Goog
+316;330;394;Doctor Zhivago;Lean, David;1965;US;197;War-Romance-Drama;Col;Amazon;IMDB;Goog
+317;307;294;Kings of the Road;Wenders, Wim;1976;Germany;176;Drama;BW;Amazon;IMDB;Goog
+318;309;287;Salvatore Giuliano;Rosi, Francesco;1961;Italy;125;Historical-Drama-Crime;BW;Amazon;IMDB;Goog
+319;303;295;Aparajito;Ray, Satyajit;1956;India;108;Drama;BW;Amazon;IMDB;Goog
+320;318;300;Rebel Without a Cause;Ray, Nicholas;1955;US;111;Drama;Col;Amazon;IMDB;Goog
+321;301;280;Miracle in Milan;De Sica, Vittorio;1951;Italy;95;Fantasy-Drama-Comedy;BW;Amazon;IMDB;Goog
+322;274;265;Piano, The;Campion, Jane;1993;Australia;121;Historical-Drama-Romance;Col;Amazon;IMDB;Goog
+323;326;320;Chungking Express;Wong Kar-wai;1994;Hong Kong;104;Romance-Drama;Col;Amazon;IMDB;Goog
+324;317;305;Strike;Eisenstein, Sergei;1924;USSR;73;Historical-Drama-Political;BW;Amazon;IMDB;Goog
+325;529;496;All the President's Men;Pakula, Alan J.;1976;US;138;Political-Drama;Col;Amazon;IMDB;Goog
+326;314;315;White Heat;Walsh, Raoul;1949;US;114;Crime;BW;Amazon;IMDB;Goog
+327;312;290;Meshes of the Afternoon;Deren, Maya;1943;US;15;Short-Avant-Garde-Fantasy;BW;Amazon;IMDB;Goog
+328;313;354;Heat [1995];Mann, Michael;1995;US;174;Thriller-Drama-Crime;Col;Amazon;IMDB;Goog
+329;315;292;Autumn Afternoon, An;Ozu, Yasujiro;1962;Japan;115;Drama;Col;Amazon;IMDB;Goog
+330;316;308;Carrie [1976];De Palma, Brian;1976;US;97;Horror-Thriller;Col;Amazon;IMDB;Goog
+331;320;302;Time to Live and the Time to Die, The;Hou Hsiao-hsien;1985;Taiwan;137;Drama;Col;Amazon;IMDB;Goog
+332;337;326;Killer of Sheep;Burnett, Charles;1977;US;83;Drama;Col;Amazon;IMDB;Goog
+333;350;372;Reservoir Dogs;Tarantino, Quentin;1991;US;99;Drama-Crime-Thriller;Col;Amazon;IMDB;Goog
+334;324;311;Hustler, The;Rossen, Robert;1961;US;135;Drama-Sports;BW;Amazon;IMDB;Goog
+335;351;363;Great Expectations [1946];Lean, David;1946;UK;118;Romance-Drama;BW;Amazon;IMDB;Goog
+336;338;317;Wavelength;Snow, Michael;1967;Canada;45;Avant-Garde;Col;Amazon;IMDB;Goog
+337;381;366;Canterbury Tale, A;Powell, Michael/Emeric Pressburger;1944;UK;124;Drama;BW;Amazon;IMDB;Goog
+338;390;404;Big Lebowski, The;Coen, Joel and Ethan Coen;1998;US-UK;113;Comedy-Crime;Col;Amazon;IMDB;Goog
+339;356;378;Point Blank;Boorman, John;1967;US;92;Thriller-Crime-Action;Col;Amazon;IMDB;Goog
+340;357;421;This is Spinal Tap;Reiner, Rob;1984;US;82;Comedy;Col;Amazon;IMDB;Goog
+341;325;327;High and Low;Kurosawa, Akira;1963;Japan;142;Thriller-Crime-Drama;BW;Amazon;IMDB;Goog
+342;329;318;Eraserhead;Lynch, David;1976;US;90;Horror;BW;Amazon;IMDB;Goog
+343;332;340;F for Fake;Welles, Orson;1973;France-Iran-West Germany;85;Documentary-Avant-Garde;Col;Amazon;IMDB;Goog
+344;323;304;Verdugo, El;Berlanga, Luis García;1963;Spain-Italy;90;Drama-Comedy;BW;Amazon;IMDB;Goog
+345;334;314;Rebecca;Hitchcock, Alfred;1940;US;130;Mystery-Romance-Drama;BW;Amazon;IMDB;Goog
+346;355;345;Man of Aran;Flaherty, Robert;1934;UK;77;Documentary;BW;Amazon;IMDB;Goog
+347;366;347;Mad Max 2;Miller, George;1981;Australia;94;Science Fiction-Action;Col;Amazon;IMDB;Goog
+348;333;333;El;Buñuel, Luis;1952;Mexico;91;Drama;BW;Amazon;IMDB;Goog
+349;378;435;Monty Python's Life of Brian;Jones, Terry;1979;UK;93;Religious-Comedy;Col;Amazon;IMDB;Goog
+350;328;307;How Green Was My Valley;Ford, John;1941;US;118;Drama;BW;Amazon;IMDB;Goog
+351;339;319;Charulata;Ray, Satyajit;1964;India;124;Romance-Drama;BW;Amazon;IMDB;Goog
+352;349;329;City of Sadness, A;Hou Hsiao-hsien;1989;Taiwan;158;Political-Drama;Col;Amazon;IMDB;Goog
+353;341;416;Cloud-Capped Star, The;Ghatak, Ritwik;1960;India;126;Drama-Musical;BW;Amazon;IMDB;Goog
+354;368;365;Groundhog Day;Ramis, Harold;1993;US;103;Romance-Fantasy-Comedy;Col;Amazon;IMDB;Goog
+355;342;337;Shadow of a Doubt;Hitchcock, Alfred;1943;US;108;Thriller;BW;Amazon;IMDB;Goog
+356;335;321;All Quiet on the Western Front;Milestone, Lewis;1930;US;105;War-Drama;BW;Amazon;IMDB;Goog
+357;384;375;Silence of the Lambs, The;Demme, Jonathan;1991;US;118;Thriller-Mystery;Col;Amazon;IMDB;Goog
+358;352;348;Eyes Without a Face;Franju, Georges;1959;France-Italy;88;Horror-Drama-Thriller;BW;Amazon;IMDB;Goog
+359;343;323;Amadeus;Forman, Milos;1984;US;158;Musical-Biography-Drama;Col;Amazon;IMDB;Goog
+360;353;358;Memories of Underdevelopment;Alea, Tomás Gutiérrez;1968;Cuba;97;Political-Romance-Drama;BW;Amazon;IMDB;Goog
+361;345;332;October;Eisenstein, Sergei;1927;USSR;103;Historical-Drama;BW;Amazon;IMDB;Goog
+362;508;507;Distant Voices, Still Lives;Davies, Terence;1988;UK;85;Drama;Col;Amazon;IMDB;Goog
+363;346;412;Sacrifice, The;Tarkovsky, Andrei;1986;France-Sweden;145;Drama;Col;Amazon;IMDB;Goog
+364;373;410;Invasion of the Body Snatchers [1956];Siegel, Don;1956;US;80;Science Fiction-Horror;BW;Amazon;IMDB;Goog
+365;347;322;Awful Truth, The;McCarey, Leo;1937;US;92;Romance-Comedy;BW;Amazon;IMDB;Goog
+366;327;382;Breaking the Waves;von Trier, Lars;1996;Denmark-Sweden-France-Netherlands-Norway;156;Romance-Drama;Col;Amazon;IMDB;Goog
+367;358;356;Closely Watched Trains;Menzel, Jirí;1966;Czechoslovakia;89;Drama-Comedy;BW;Amazon;IMDB;Goog
+368;361;423;Cat People [1942];Tourneur, Jacques;1942;US;73;Thriller-Horror-Mystery;BW;Amazon;IMDB;Goog
+369;359;331;Ben-Hur [1959];Wyler, William;1959;US;212;Religious-Historical;Col;Amazon;IMDB;Goog
+370;367;364;Manchurian Candidate, The [1962];Frankenheimer, John;1962;US;126;Political-Thriller-Drama;BW;Amazon;IMDB;Goog
+371;362;403;Big Heat, The;Lang, Fritz;1953;US;90;Drama-Crime;BW;Amazon;IMDB;Goog
+372;364;361;Back to the Future;Zemeckis, Robert;1985;US;116;Science Fiction-Comedy;Col;Amazon;IMDB;Goog
+373;376;357;Deliverance;Boorman, John;1972;US;109;Adventure-Thriller-Drama;Col;Amazon;IMDB;Goog
+374;360;362;Vitelloni, I;Fellini, Federico;1953;Italy;104;Drama;BW;Amazon;IMDB;Goog
+375;369;379;Dead, The [1987];Huston, John;1987;US;83;Drama;Col;Amazon;IMDB;Goog
+376;371;401;Frankenstein;Whale, James;1931;US;70;Horror-Science Fiction;BW;Amazon;IMDB;Goog
+377;363;341;Accattone;Pasolini, Pier Paolo;1961;Italy;120;Drama;BW;Amazon;IMDB;Goog
+378;478;451;Kes;Loach, Ken;1969;UK;113;Drama;Col;Amazon;IMDB;Goog
+379;388;387;Butch Cassidy and the Sundance Kid;Hill, George Roy;1969;US;112;Western;Col;Amazon;IMDB;Goog
+380;382;351;Casque d'or;Becker, Jacques;1952;France;96;Romance-Drama-Crime;BW;Amazon;IMDB;Goog
+381;370;462;Foolish Wives;von Stroheim, Erich;1922;US;117;Drama;BW;Amazon;IMDB;Goog
+382;394;388;Streetcar Named Desire, A;Kazan, Elia;1951;US;122;Drama;BW;Amazon;IMDB;Goog
+383;372;350;Wedding March, The;von Stroheim, Erich;1928;US;113;Romance-Drama;BW;Amazon;IMDB;Goog
+384;375;355;Navigator, The;Keaton, Buster/Donald Crisp;1924;US;69;Comedy-Adventure;BW;Amazon;IMDB;Goog
+385;374;346;Marnie;Hitchcock, Alfred;1964;US;129;Romance-Thriller-Mystery;Col;Amazon;IMDB;Goog
+386;402;442;Evil Dead II;Raimi, Sam;1987;US;85;Horror;Col;Amazon;IMDB;Goog
+387;344;359;Killing of a Chinese Bookie, The;Cassavetes, John;1976;US;109;Drama-Crime;Col;Amazon;IMDB;Goog
+388;416;385;Claire's Knee;Rohmer, Eric;1971;France;103;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+389;411;390;Servant, The;Losey, Joseph;1963;UK;115;Drama;BW;Amazon;IMDB;Goog
+390;379;349;Spartacus;Kubrick, Stanley;1960;US;184;Adventure-Historical-Drama;Col;Amazon;IMDB;Goog
+391;422;398;Forbidden Games;Clément, René;1951;France;87;War-Drama;BW;Amazon;IMDB;Goog
+392;398;555;Killing, The;Kubrick, Stanley;1956;US;83;Crime;BW;Amazon;IMDB;Goog
+393;409;376;Don't Look Back;Pennebaker, D.A.;1967;US;96;Documentary-Musical;BW;Amazon;IMDB;Goog
+394;380;391;Tristana;Buñuel, Luis;1970;France-Spain;98;Drama;Col;Amazon;IMDB;Goog
+395;383;352;Mon oncle;Tati, Jacques;1958;France;126;Comedy;Col;Amazon;IMDB;Goog
+396;385;377;Love Streams;Cassavetes, John;1984;US;141;Drama;Col;Amazon;IMDB;Goog
+397;441;381;Lady Vanishes, The;Hitchcock, Alfred;1938;UK;97;Spy-Mystery-Thriller;BW;Amazon;IMDB;Goog
+398;415;419;My Neighbour Totoro;Miyazaki, Hayao;1988;Japan;86;Fantasy-Family-Animated;Col;Amazon;IMDB;Goog
+399;391;369;Stranger Than Paradise;Jarmusch, Jim;1984;US;90;Comedy;BW;Amazon;IMDB;Goog
+400;408;380;Listen to Britain;Jennings, Humphrey;1942;UK;20;Documentary-Short-War;BW;Amazon;IMDB;Goog
+401;424;360;Repulsion;Polanski, Roman;1965;UK;105;Horror-Thriller;BW;Amazon;IMDB;Goog
+402;419;433;Sound of Music, The;Wise, Robert;1965;US;174;Musical-Drama-Family;Col;Amazon;IMDB;Goog
+403;386;371;In a Year with 13 Moons;Fassbinder, Rainer Werner;1978;West Germany;129;Drama;Col;Amazon;IMDB;Goog
+404;387;395;Mr. Smith Goes to Washington;Capra, Frank;1939;US;129;Political-Drama;BW;Amazon;IMDB;Goog
+405;421;426;Toy Story;Lasseter, John;1995;US;80;Fantasy-Comedy-Family-Animated;Col;Amazon;IMDB;Goog
+406;446;441;Love Me Tonight;Mamoulian, Rouben;1932;US;96;Musical-Comedy-Romance;BW;Amazon;IMDB;Goog
+407;397;334;Pinocchio;Sharpsteen, Ben & Hamilton Luske;1940;US;88;Fantasy-Family-Animated;Col;Amazon;IMDB;Goog
+408;389;368;Providence;Resnais, Alain;1977;UK;104;Drama;Col;Amazon;IMDB;Goog
+409;540;497;Saturday Night and Sunday Morning;Reisz, Karel;1960;UK;90;Drama;BW;Amazon;IMDB;Goog
+410;435;484;Suspiria;Argento, Dario;1977;Italy;92;Horror;Col;Amazon;IMDB;Goog
+411;403;402;Lady from Shanghai, The;Welles, Orson;1948;US;87;Mystery-Crime-Thriller;BW;Amazon;IMDB;Goog
+412;392;383;Steamboat Bill, Jr.;Keaton, Buster/Charles F. Reisner;1928;US;71;Romance-Comedy-Adventure;BW;Amazon;IMDB;Goog
+413;432;400;I Know Where I'm Going!;Powell, Michael/Emeric Pressburger;1945;UK;91;Romance-Comedy-Drama;BW;Amazon;IMDB;Goog
+414;393;397;Chelsea Girls;Warhol, Andy;1967;US;215;Drama-Avant-Garde;Col-BW;Amazon;IMDB;Goog
+415;420;417;Pyaasa;Dutt, Guru;1957;India;146;Drama;BW;Amazon;IMDB;Goog
+416;395;389;Colour of Pomegranate, The;Parajanov, Sergei;1969;USSR;73;Historical-Avant-Garde;Col;Amazon;IMDB;Goog
+417;396;339;Plaisir, Le;Ophüls, Max;1951;France;97;Romance-Drama;BW;Amazon;IMDB;Goog
+418;400;373;Fellini Satyricon;Fellini, Federico;1969;Italy;129;Historical-Drama;Col;Amazon;IMDB;Goog
+419;447;459;Rocky;Avildsen, John G.;1976;US;119;Sports-Drama;Col;Amazon;IMDB;Goog
+420;401;370;Flowers of St. Francis, The;Rossellini, Roberto;1950;Italy;83;Religious-Drama;BW;Amazon;IMDB;Goog
+421;412;430;Some Came Running;Minnelli, Vincente;1958;US;136;Drama;Col;Amazon;IMDB;Goog
+422;404;407;Henry V [1944];Olivier, Laurence;1944;UK;137;War-Drama-Historical;Col;Amazon;IMDB;Goog
+423;410;408;Alice in the Cities;Wenders, Wim;1974;Germany;110;Drama;BW;Amazon;IMDB;Goog
+424;405;384;Loves of a Blonde;Forman, Milos;1965;Czechoslovakia;88;Drama-Comedy;BW;Amazon;IMDB;Goog
+425;406;393;Our Hospitality;Keaton, Buster/John Blystone;1923;US;74;Comedy-Family-Romance;BW;Amazon;IMDB;Goog
+426;407;386;Bring Me the Head of Alfredo Garcia;Peckinpah, Sam;1974;US;112;Crime-Thriller-Action;Col;Amazon;IMDB;Goog
+427;445;422;Hard Day's Night, A;Lester, Richard;1964;UK;85;Musical-Comedy;BW;Amazon;IMDB;Goog
+428;439;495;Spirited Away;Miyazaki, Hayao;2001;Japan;124;Animated-Adventure-Fantasy;Col;Amazon;IMDB;Goog
+429;417;405;Vampires, Les;Feuillade, Louis;1915;France;440;Thriller-Crime-Action;BW;Amazon;IMDB;Goog
+430;535;561;if…;Anderson, Lindsay;1968;UK;111;Drama;Col-BW;Amazon;IMDB;Goog
+431;467;471;L.A. Confidential;Hanson, Curtis;1997;US;137;Thriller-Crime;Col;Amazon;IMDB;Goog
+432;425;440;Brighter Summer Day, A;Yang, Edward;1991;Taiwan;237;Political-Romance-Drama;Col;Amazon;IMDB;Goog
+433;428;494;Innocents, The;Clayton, Jack;1961;UK;100;Horror-Thriller;BW;Amazon;IMDB;Goog
+434;413;392;Scorpio Rising;Anger, Kenneth;1964;US;29;Short-Avant-Garde;Col;Amazon;IMDB;Goog
+435;414;399;Thelma & Louise;Scott, Ridley;1991;US;128;Drama-Comedy-Adventure;Col;Amazon;IMDB;Goog
+436;429;489;Man Who Would Be King, The;Huston, John;1975;US;129;Adventure;Col;Amazon;IMDB;Goog
+437;438;413;Faust;Murnau, F.W.;1926;Germany;116;Fantasy-Drama-Horror;BW;Amazon;IMDB;Goog
+438;460;438;American Graffiti;Lucas, George;1973;US;110;Drama-Comedy;Col;Amazon;IMDB;Goog
+439;365;338;Tootsie;Pollack, Sydney;1982;US;116;Romance-Comedy;Col;Amazon;IMDB;Goog
+440;528;510;Monty Python and the Holy Grail;Gilliam, Terry/Terry Jones;1975;UK;90;Historical-Comedy;Col;Amazon;IMDB;Goog
+441;423;406;Muriel;Resnais, Alain;1963;France-Italy;115;Drama;Col;Amazon;IMDB;Goog
+442;458;533;Double Life of Veronique, The;Kieslowski, Krszystof;1991;France;97;Fantasy-Drama-Romance;Col;Amazon;IMDB;Goog
+443;427;420;Full Metal Jacket;Kubrick, Stanley;1987;US;116;War-Drama-Action;Col;Amazon;IMDB;Goog
+444;449;490;Army of Shadows;Melville, Jean-Pierre;1969;France-Italy;140;War-Drama;Col;Amazon;IMDB;Goog
+445;440;411;Spring in a Small Town;Fei Mu;1948;China;85;Romance-Drama;BW;Amazon;IMDB;Goog
+446;482;517;Bande à part;Godard, Jean-Luc;1964;France;97;Crime-Drama-Romance;BW;Amazon;IMDB;Goog
+447;430;476;Ferris Bueller's Day Off;Hughes, John;1986;US;103;Comedy;Col;Amazon;IMDB;Goog
+448;495;450;Local Hero;Forsyth, Bill;1983;UK;111;Drama-Comedy;Col;Amazon;IMDB;Goog
+449;431;465;Right Stuff, The;Kaufman, Philip;1983;US;193;Drama-Biography;Col;Amazon;IMDB;Goog
+450;443;564;Gun Crazy;Lewis, Joseph H.;1949;US;86;Drama-Crime;BW;Amazon;IMDB;Goog
+451;418;396;JFK;Stone, Oliver;1991;US;188;Historical-Drama;Col-BW;Amazon;IMDB;Goog
+452;433;409;India Song;Duras, Marguerite;1974;France;120;Drama;Col;Amazon;IMDB;Goog
+453;434;488;Adventures of Robin Hood, The;Curtiz, Michael/William Keighley;1938;US;102;Adventure;Col;Amazon;IMDB;Goog
+454;501;472;Dead Man;Jarmusch, Jim;1995;US-Germany;121;Western-Drama;BW;Amazon;IMDB;Goog
+455;436;418;Dersu Uzala;Kurosawa, Akira;1975;Japan-Russia;140;Drama-Adventure;Col;Amazon;IMDB;Goog
+456;437;499;Scenes from a Marriage;Bergman, Ingmar;1973;Sweden;168;Drama;Col;Amazon;IMDB;Goog
+457;448;480;Dumbo;Sharpsteen, Ben;1941;US;64;Musical-Family-Animated;Col;Amazon;IMDB;Goog
+458;477;444;Terra em Transe;Rocha, Glauber;1967;Brazil;106;Drama-Political;BW;Amazon;IMDB;Goog
+459;452;504;Winter Light;Bergman, Ingmar;1962;Sweden;80;Religious-Drama;BW;Amazon;IMDB;Goog
+460;473;647;Raising Arizona;Coen, Joel and Ethan Coen;1987;US;92;Comedy;Col;Amazon;IMDB;Goog
+461;464;454;My Life as a Dog;Hallström, Lasse;1985;Sweden;101;Drama-Comedy;Col;Amazon;IMDB;Goog
+462;547;491;Last Detail, The;Ashby, Hal;1973;US;105;Drama;Col;Amazon;IMDB;Goog
+463;454;448;Raise the Red Lantern;Zhang Yimou;1991;Hong Kong;125;Drama;Col;Amazon;IMDB;Goog
+464;456;424;Young Girls of Rochefort, The;Demy, Jacques;1967;France;124;Musical-Dance-Comedy;Col;Amazon;IMDB;Goog
+465;499;455;Breakfast at Tiffany's;Edwards, Blake;1961;US;115;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+466;442;428;It's a Gift;McLeod, Norman Z.;1934;US;73;Comedy;BW;Amazon;IMDB;Goog
+467;444;431;Nostalghia;Tarkovsky, Andrei;1983;Italy;120;Drama;Col;Amazon;IMDB;Goog
+468;494;637;Edward Scissorhands;Burton, Tim;1990;US;100;Romance-Fantasy;Col;Amazon;IMDB;Goog
+469;492;463;Videodrome;Cronenberg, David;1983;Canada;90;Horror-Science Fiction;Col;Amazon;IMDB;Goog
+470;514;565;Touch of Zen, A;Hu, King;1969;Taiwan;200;Adventure-Action-Drama;Col;Amazon;IMDB;Goog
+471;451;436;Three Colours: Red;Kieslowski, Krszystof;1994;France-Switzerland-Poland;99;Drama;Col;Amazon;IMDB;Goog
+472;491;524;Enigma of Kaspar Hauser, The;Herzog, Werner;1974;West Germany;110;Biography-Drama;Col;Amazon;IMDB;Goog
+473;399;414;All That Jazz;Fosse, Bob;1979;US;123;Musical-Fantasy-Drama;Col;Amazon;IMDB;Goog
+474;520;583;Shawshank Redemption, The;Darabont, Frank;1994;US;142;Prison-Drama;Col;Amazon;IMDB;Goog
+475;484;473;12 Angry Men;Lumet, Sidney;1957;US;95;Drama;BW;Amazon;IMDB;Goog
+476;463;468;Affair to Remember, An;McCarey, Leo;1957;US;115;Romance-Drama;Col;Amazon;IMDB;Goog
+477;485;528;Producers, The;Brooks, Mel;1968;US;88;Comedy;Col;Amazon;IMDB;Goog
+478;450;425;Seven Chances;Keaton, Buster;1925;US;56;Romance-Comedy;BW;Amazon;IMDB;Goog
+479;455;558;Tiger of Eschnapur, The;Lang, Fritz;1958;Germany;101;Romance-Adventure;Col;Amazon;IMDB;Goog
+480;465;449;Voyage dans la lune, Le;Méliès, Georges;1902;France;14;Science Fiction-Short-Adventure;BW;Amazon;IMDB;Goog
+481;489;460;Cool Hand Luke;Rosenberg, Stuart;1967;US;126;Prison-Drama;Col;Amazon;IMDB;Goog
+482;453;434;Lola [1961];Demy, Jacques;1961;France;90;Romance-Drama;BW;Amazon;IMDB;Goog
+483;507;453;Scarface [1932];Hawks, Howard;1932;US;90;Crime-Biography-Drama;BW;Amazon;IMDB;Goog
+484;457;475;French Cancan;Renoir, Jean;1955;France;93;Musical-Drama-Comedy;Col;Amazon;IMDB;Goog
+485;426;571;Fat City;Huston, John;1972;US;100;Sports;Col;Amazon;IMDB;Goog
+486;459;437;Moment of Innocence, A;Makhmalbaf, Mohsen;1995;Iran-France-Switzerland;78;Drama-Comedy;Col;Amazon;IMDB;Goog
+487;476;600;Fitzcarraldo;Herzog, Werner;1982;West Germany;157;Drama-Adventure;Col;Amazon;IMDB;Goog
+488;461;469;Faces;Cassavetes, John;1968;US;130;Drama;BW;Amazon;IMDB;Goog
+489;497;514;Midnight Run;Brest, Martin;1988;US;122;Crime-Comedy;Col;Amazon;IMDB;Goog
+490;470;538;Barton Fink;Coen, Joel and Ethan Coen;1991;US;117;Drama-Comedy;Col;Amazon;IMDB;Goog
+491;533;630;Juliet of the Spirits;Fellini, Federico;1965;Italy;148;Fantasy-Drama;Col;Amazon;IMDB;Goog
+492;462;631;Thing from Another World, The;Nyby, Christian/Howard Hawks;1951;US;87;Science Fiction;BW;Amazon;IMDB;Goog
+493;481;464;I Am Cuba;Kalatozov, Mikhail;1964;USSR-Cuba;141;Political-Drama;Col;Amazon;IMDB;Goog
+494;466;429;Where is the Friend's Home?;Kiarostami, Abbas;1987;Iran;85;Drama;Col;Amazon;IMDB;Goog
+495;468;502;Underground;Kusturica, Emir;1995;France-Germany-Hungary;192;War-Drama-Comedy;Col;Amazon;IMDB;Goog
+496;487;508;I Walked with a Zombie;Tourneur, Jacques;1943;US;69;Horror-Drama-Romance;BW;Amazon;IMDB;Goog
+497;486;482;I Was Born, But…;Ozu, Yasujiro;1932;Japan;100;Drama-Comedy;BW;Amazon;IMDB;Goog
+498;504;539;Husbands;Cassavetes, John;1970;US;138;Drama;Col;Amazon;IMDB;Goog
+499;469;439;Limelight;Chaplin, Charles;1952;US;145;Drama-Comedy;BW;Amazon;IMDB;Goog
+500;472;443;Masculin Feminin;Godard, Jean-Luc;1966;France-Sweden;103;Drama;BW;Amazon;IMDB;Goog
+501;474;513;Three Colours: Blue;Kieslowski, Krszystof;1993;France-Poland-Switzerland;100;Drama;Col;Amazon;IMDB;Goog
+502;506;615;Kagemusha;Kurosawa, Akira;1980;Japan;159;War-Drama-Historical;Col;Amazon;IMDB;Goog
+503;---;---;Withnail & I;Robinson, Bruce;1987;UK;105;Drama;Col;Amazon;IMDB;Goog
+504;475;447;Being There;Ashby, Hal;1979;US;130;Drama-Comedy;Col;Amazon;IMDB;Goog
+505;510;466;42nd Street;Bacon, Lloyd;1933;US;89;Musical-Dance-Comedy;BW;Amazon;IMDB;Goog
+506;515;535;Eternal Sunshine of the Spotless Mind;Gondry, Michel;2004;US;108;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+507;479;487;Golden Coach, The;Renoir, Jean;1952;Italy-France;100;Drama-Comedy-Romance;Col;Amazon;IMDB;Goog
+508;480;457;Dames du Bois de Boulogne, Les;Bresson, Robert;1945;France;85;Drama-Romance;BW;Amazon;IMDB;Goog
+509;496;452;Silence, The;Bergman, Ingmar;1963;Sweden;96;Drama;BW;Amazon;IMDB;Goog
+510;488;445;Lancelot du Lac;Bresson, Robert;1974;France-Italy;84;Fantasy-Drama;Col;Amazon;IMDB;Goog
+511;537;522;Dirty Harry;Siegel, Don;1971;US;102;Crime-Action;Col;Amazon;IMDB;Goog
+512;500;531;Odd Man Out;Reed, Carol;1947;UK;115;Drama-Crime-Thriller;BW;Amazon;IMDB;Goog
+513;483;458;Terra trema, La;Visconti, Luchino;1947;Italy;160;Drama;BW;Amazon;IMDB;Goog
+514;509;479;Man Who Fell to Earth, The;Roeg, Nicolas;1976;UK;140;Science Fiction-Drama;Col;Amazon;IMDB;Goog
+515;521;596;Down by Law;Jarmusch, Jim;1986;US;107;Comedy;BW;Amazon;IMDB;Goog
+516;522;---;Thing, The [1982];Carpenter, John;1982;US;108;Science Fiction-Action-Horror;Col;Amazon;IMDB;Goog
+517;498;474;Dead Ringers;Cronenberg, David;1988;Canada;115;Thriller-Horror-Drama;Col;Amazon;IMDB;Goog
+518;557;566;Get Carter;Hodges, Mike;1971;UK;112;Crime;Col;Amazon;IMDB;Goog
+519;503;516;Terminator 2: Judgment Day;Cameron, James;1991;US;136;Science Fiction-Action;Col;Amazon;IMDB;Goog
+520;546;540;Long Goodbye, The;Altman, Robert;1973;US;112;Drama-Crime;Col;Amazon;IMDB;Goog
+521;502;505;Day the Earth Stood Still, The;Wise, Robert;1951;US;92;Science Fiction;BW;Amazon;IMDB;Goog
+522;512;481;Age of Innocence, The;Scorsese, Martin;1993;US;133;Romance-Drama;Col;Amazon;IMDB;Goog
+523;511;467;She Wore a Yellow Ribbon;Ford, John;1949;US;103;Western-War;Col;Amazon;IMDB;Goog
+524;532;518;Two-Lane Blacktop;Hellman, Monte;1971;US;101;Drama;Col;Amazon;IMDB;Goog
+525;530;511;Lolita [1962];Kubrick, Stanley;1962;UK;152;Drama;BW;Amazon;IMDB;Goog
+526;518;470;Detour;Ulmer, Edgar G.;1945;US;69;Crime;BW;Amazon;IMDB;Goog
+527;505;461;They Were Expendable;Ford, John;1945;US;135;War-Drama;BW;Amazon;IMDB;Goog
+528;517;486;Olympia;Riefenstahl, Leni;1938;Germany;220;Documentary-Sports;BW;Amazon;IMDB;Goog
+529;672;769;Eyes Wide Shut;Kubrick, Stanley;1999;US-UK;159;Thriller-Drama;Col;Amazon;IMDB;Goog
+530;513;512;Reds;Beatty, Warren;1981;US;200;Historical-Drama-Biography;Col;Amazon;IMDB;Goog
+531;550;551;Jour se lève, Le;Carné, Marcel;1939;France;93;Thriller-Crime-Drama;BW;Amazon;IMDB;Goog
+532;551;515;On the Town;Donen, Stanley/Gene Kelly;1949;US;98;Musical-Dance;Col;Amazon;IMDB;Goog
+533;516;498;À nous la liberté;Clair, René;1931;France;97;Comedy-Fantasy;BW;Amazon;IMDB;Goog
+534;594;654;Trainspotting;Boyle, Danny;1995;UK;95;Drama-Comedy;Col;Amazon;IMDB;Goog
+535;579;532;Forrest Gump;Zemeckis, Robert;1994;US;142;Drama-Comedy;Col;Amazon;IMDB;Goog
+536;519;483;That Obscure Object of Desire;Buñuel, Luis;1977;France-Spain;103;Drama;Col;Amazon;IMDB;Goog
+537;538;---;Tenant, The;Polanski, Roman;1976;France-US;125;Horror-Thriller-Mystery;Col;Amazon;IMDB;Goog
+538;539;740;Great Escape, The;Sturges, John;1963;US;168;War-Prison-Adventure;Col;Amazon;IMDB;Goog
+539;543;519;Bitter Tears of Petra von Kant, The;Fassbinder, Rainer Werner;1972;Germany;119;Drama;Col;Amazon;IMDB;Goog
+540;523;477;Fellini's Casanova;Fellini, Federico;1976;Italy;158;Drama-Biography;Col;Amazon;IMDB;Goog
+541;524;456;Place in the Sun, A;Stevens, George;1951;US;122;Romance-Drama;BW;Amazon;IMDB;Goog
+542;525;478;Teorema;Pasolini, Pier Paolo;1968;Italy;98;Drama;Col;Amazon;IMDB;Goog
+543;553;548;Alphaville;Godard, Jean-Luc;1965;France;95;Science Fiction;BW;Amazon;IMDB;Goog
+544;544;527;Antonio das Mortes;Rocha, Glauber;1969;Brazil;95;Drama-Western-Political;Col;Amazon;IMDB;Goog
+545;526;655;Othello;Welles, Orson;1952;Italy;92;Drama;BW;Amazon;IMDB;Goog
+546;558;546;Killer, The;Woo, John;1989;Hong Kong;110;Thriller-Crime-Action;Col;Amazon;IMDB;Goog
+547;549;556;Seven Women;Ford, John;1966;US;87;Historical-Drama;Col;Amazon;IMDB;Goog
+548;562;549;Ride the High Country;Peckinpah, Sam;1962;US;94;Western;Col;Amazon;IMDB;Goog
+549;527;493;Damned, The;Visconti, Luchino;1969;Italy-West Germany;155;War-Drama;Col;Amazon;IMDB;Goog
+550;578;595;Salesman;Maysles, Albert/David Maysles/Charlotte Zwerin;1968;US;85;Documentary;BW;Amazon;IMDB;Goog
+551;623;585;Tin Drum, The;Schlöndorff, Volker;1979;Germany;142;War-Drama;Col;Amazon;IMDB;Goog
+552;536;523;Boogie Nights;Anderson, Paul Thomas;1997;US;155;Drama;Col;Amazon;IMDB;Goog
+553;531;554;Cleo from 5 to 7;Varda, Agnès;1961;France;90;Drama;BW;Amazon;IMDB;Goog
+554;552;500;Devils, The;Russell, Ken;1971;UK;109;Historical-Drama-Horror;Col;Amazon;IMDB;Goog
+555;608;553;Picnic at Hanging Rock;Weir, Peter;1975;Australia;110;Mystery-Drama;Col;Amazon;IMDB;Goog
+556;566;619;Outlaw Josey Wales, The;Eastwood, Clint;1976;US;135;Western-Drama;Col;Amazon;IMDB;Goog
+557;534;485;Blow Out;De Palma, Brian;1981;US;107;Thriller-Mystery;Col;Amazon;IMDB;Goog
+558;564;574;Die Hard;McTiernan, John;1988;US;131;Thriller-Action;Col;Amazon;IMDB;Goog
+559;471;432;Red Balloon, The;Lamorisse, Albert;1956;France;34;Fantasy-Family-Short;BW;Amazon;IMDB;Goog
+560;563;509;Marriage of Maria Braun, The;Fassbinder, Rainer Werner;1978;Germany;120;War-Drama;Col;Amazon;IMDB;Goog
+561;606;550;Fight Club;Fincher, David;1999;US-Germany;139;Drama-Comedy;Col;Amazon;IMDB;Goog
+562;541;560;Time of the Gypsies;Kusturica, Emir;1989;Yugoslavia;142;Drama;Col;Amazon;IMDB;Goog
+563;542;582;Bob le flambeur;Melville, Jean-Pierre;1955;France;102;Crime;BW;Amazon;IMDB;Goog
+564;575;557;Party, The;Edwards, Blake;1968;US;99;Comedy;Col;Amazon;IMDB;Goog
+565;587;579;Pépé le Moko;Duvivier, Julien;1936;France;93;Romance-Drama-Crime;BW;Amazon;IMDB;Goog
+566;545;506;And Life Goes On…;Kiarostami, Abbas;1992;Iran;108;Drama-Documentary;Col;Amazon;IMDB;Goog
+567;577;627;Fly, The [1986];Cronenberg, David;1986;US;100;Horror;Col;Amazon;IMDB;Goog
+568;723;891;War and Peace [1967];Bondarchuk, Sergei;1967;Russia;357;War-Historical-Drama;Col;Amazon;IMDB;Goog
+569;561;576;Bambi;Hand, David;1942;US;69;Family-Animated-Drama;Col;Amazon;IMDB;Goog
+570;576;530;Pat Garrett and Billy the Kid;Peckinpah, Sam;1973;US;122;Western;Col;Amazon;IMDB;Goog
+571;560;589;Hour of the Furnaces, The;Getino, Octavio & Fernando E. Solanas;1968;Argentina;113;Political-Drama;BW;Amazon;IMDB;Goog
+572;548;492;Shadows of Our Forgotten Ancestors;Parajanov, Sergei;1964;USSR;95;Romance-Drama-Historical;Col;Amazon;IMDB;Goog
+573;583;575;Young Frankenstein;Brooks, Mel;1974;US;105;Horror-Comedy-Science Fiction;BW;Amazon;IMDB;Goog
+574;599;559;Barren Lives;Dos Santos, Nelson Pereira;1963;Brazil;135;Drama;BW;Amazon;IMDB;Goog
+575;554;503;Devil is a Woman, The;von Sternberg, Josef;1935;US;83;Romance-Drama;BW;Amazon;IMDB;Goog
+576;568;536;Diaboliques, Les;Clouzot, Henri-Georges;1955;France;114;Thriller-Mystery;BW;Amazon;IMDB;Goog
+577;572;541;Beyond the Valley of the Dolls;Meyer, Russ;1970;US;109;Drama-Comedy;Col;Amazon;IMDB;Goog
+578;590;691;French Connection, The;Friedkin, William;1971;US;104;Crime;Col;Amazon;IMDB;Goog
+579;555;544;Blood of a Poet, The;Cocteau, Jean;1930;France;58;Fantasy-Drama;BW;Amazon;IMDB;Goog
+580;490;---;Angel at My Table, An;Campion, Jane;1990;New Zealand;158;Drama-Biography;Col;Amazon;IMDB;Goog
+581;556;526;Barefoot Contessa, The;Mankiewicz, Joseph L.;1954;US;128;Drama;Col;Amazon;IMDB;Goog
+582;559;520;Stromboli;Rossellini, Roberto;1949;Italy;107;Drama;BW;Amazon;IMDB;Goog
+583;601;568;Cranes Are Flying, The;Kalatozov, Mikhail;1957;USSR;94;War-Romance-Drama;BW;Amazon;IMDB;Goog
+584;580;573;M*A*S*H;Altman, Robert;1970;US;116;War-Comedy;Col;Amazon;IMDB;Goog
+585;581;773;Lives of Others, The;von Donnersmarck, Florian Henckel;2006;Germany;138;Drama;Col;Amazon;IMDB;Goog
+586;582;607;Xala;Sembene, Ousmane;1974;Senegal;123;Comedy;Col;Amazon;IMDB;Goog
+587;565;563;Passion;Godard, Jean-Luc;1982;France-Switzerland;87;Drama;Col;Amazon;IMDB;Goog
+588;604;741;Excalibur;Boorman, John;1981;UK;140;Fantasy-Adventure-Action;Col;Amazon;IMDB;Goog
+589;567;529;Young Mr. Lincoln;Ford, John;1939;US;100;Political-Biography-Drama;BW;Amazon;IMDB;Goog
+590;588;547;Ossessione;Visconti, Luchino;1942;Italy;140;Drama;BW;Amazon;IMDB;Goog
+591;598;620;City of God;Meirelles, Fernando;2002;Brazil-Germany-France;129;Drama-Crime-Action;Col;Amazon;IMDB;Goog
+592;569;521;Bigger Than Life;Ray, Nicholas;1956;US;95;Drama;Col;Amazon;IMDB;Goog
+593;570;592;Région centrale, La;Snow, Michael;1971;Canada;180;Avant-Garde;Col;Amazon;IMDB;Goog
+594;571;525;Story of a Cheat, The;Guitry, Sacha;1936;France;85;Comedy;BW;Amazon;IMDB;Goog
+595;593;545;Through the Olive Trees;Kiarostami, Abbas;1994;Iran;103;Drama;Col;Amazon;IMDB;Goog
+596;573;542;Chant d'amour, Un;Genet, Jean;1950;France;26;Drama;BW;Amazon;IMDB;Goog
+597;621;594;Short Cuts;Altman, Robert;1993;US;189;Drama;Col;Amazon;IMDB;Goog
+598;595;543;Mildred Pierce;Curtiz, Michael;1945;US;109;Drama;BW;Amazon;IMDB;Goog
+599;643;785;There Will Be Blood;Anderson, Paul Thomas;2007;US;158;Drama;Col;Amazon;IMDB;Goog
+600;610;603;East of Eden;Kazan, Elia;1955;US;115;Drama;Col;Amazon;IMDB;Goog
+601;589;569;Liebelei;Ophüls, Max;1932;Germany;88;Romance-Drama;BW;Amazon;IMDB;Goog
+602;597;591;Ivan's Childhood;Tarkovsky, Andrei;1962;USSR;94;War-Drama;BW;Amazon;IMDB;Goog
+603;668;---;Titicut Follies;Wiseman, Frederick;1967;US;87;Documentary;BW;Amazon;IMDB;Goog
+604;617;593;Heaven's Gate;Cimino, Michael;1980;US;219;Western-Drama-Historical;Col;Amazon;IMDB;Goog
+605;620;599;Funny Face;Donen, Stanley;1957;US;103;Musical-Dance;Col;Amazon;IMDB;Goog
+606;574;501;Scarface [1983];De Palma, Brian;1983;US;170;Drama-Crime;Col;Amazon;IMDB;Goog
+607;619;567;Now, Voyager;Rapper, Irving;1942;US;117;Romance-Drama;BW;Amazon;IMDB;Goog
+608;605;597;They Live by Night;Ray, Nicholas;1948;US;95;Drama-Crime;BW;Amazon;IMDB;Goog
+609;584;534;Wild Child, The;Truffaut, François;1969;France;85;Drama;BW;Amazon;IMDB;Goog
+610;585;768;Miller's Crossing;Coen, Joel and Ethan Coen;1990;US;115;Crime;Col;Amazon;IMDB;Goog
+611;625;651;Wagon Master;Ford, John;1950;US;86;Western;BW;Amazon;IMDB;Goog
+612;586;577;Van Gogh;Pialat, Maurice;1991;France;155;Drama-Biography;Col;Amazon;IMDB;Goog
+613;648;719;Gregory's Girl;Forsyth, Bill;1980;UK;91;Romance-Comedy;Col;Amazon;IMDB;Goog
+614;611;618;Hitler: A Film from Germany;Syberberg, Hans-Jürgen;1977;West Germany;420;Drama-Avant Garde;Col;Amazon;IMDB;Goog
+615;664;664;Walkabout;Roeg, Nicolas;1971;Australia;95;Drama-Adventure;Col;Amazon;IMDB;Goog
+616;613;562;America, America;Kazan, Elia;1963;US;168;Drama;BW;Amazon;IMDB;Goog
+617;591;537;Circus, The;Chaplin, Charles;1928;US;72;Drama-Comedy-Family;BW;Amazon;IMDB;Goog
+618;709;674;Naked;Leigh, Mike;1993;UK;126;Drama;Col;Amazon;IMDB;Goog
+619;592;610;Princess Yang Kwei Fei;Mizoguchi, Kenji;1955;Japan-Hong Kong;98;Romance-Drama-Historical;Col;Amazon;IMDB;Goog
+620;---;---;Swing Time;Stevens, George;1936;US;103;Romance-Musical-Dance;BW;Amazon;IMDB;Goog
+621;657;670;Hallelujah!;Vidor, King;1929;US;106;Musical-Drama;BW;Amazon;IMDB;Goog
+622;596;580;Bad and the Beautiful, The;Minnelli, Vincente;1952;US;118;Drama;BW;Amazon;IMDB;Goog
+623;714;795;Blues Brothers, The;Landis, John;1980;US;130;Action-Comedy-Musical;Col;Amazon;IMDB;Goog
+624;630;650;Woman in the Dunes;Teshigahara, Hiroshi;1964;Japan;127;Drama;BW;Amazon;IMDB;Goog
+625;616;581;Holiday;Cukor, George;1938;US;93;Comedy;BW;Amazon;IMDB;Goog
+626;618;617;Farewell, My Concubine;Chen Kaige;1993;Hong Kong-China;155;Historical-Drama-Romance;Col;Amazon;IMDB;Goog
+627;639;657;Matrix, The;Wachowski, Andy & Larry Wachowski;1999;US-Australia;136;Science Fiction-Action;Col;Amazon;IMDB;Goog
+628;600;624;Tarnished Angels, The;Sirk, Douglas;1958;US;91;Drama;BW;Amazon;IMDB;Goog
+629;642;606;American in Paris, An;Minnelli, Vincente;1951;US;115;Musical-Dance;Col;Amazon;IMDB;Goog
+630;493;---;Forbidden Planet;Wilcox, Fred M.;1956;US;98;Science Fiction;Col;Amazon;IMDB;Goog
+631;602;572;Que viva Mexico!;Eisenstein, Sergei;1932;Mexico-US;85;Historical;BW;Amazon;IMDB;Goog
+632;646;660;Thin Red Line, The;Malick, Terrence;1998;US;170;War-Drama-Action;Col;Amazon;IMDB;Goog
+633;603;608;Beau travail;Denis, Claire;1998;France;93;Drama;Col;Amazon;IMDB;Goog
+634;669;641;Grey Gardens;Maysles, David/Albert Maysles/Ellen Hovde/Muffie Meyer;1975;US;95;Documentary-Comedy;Col;Amazon;IMDB;Goog
+635;626;642;Elephant Man, The;Lynch, David;1980;US;125;Drama-Biography;BW;Amazon;IMDB;Goog
+636;622;570;Duel in the Sun;Vidor, King;1946;US;130;Western;Col;Amazon;IMDB;Goog
+637;650;721;Crouching Tiger, Hidden Dragon;Lee, Ang;2000;China-Taiwan-US;120;Drama-Adventure-Action;Col;Amazon;IMDB;Goog
+638;652;648;Roman Holiday;Wyler, William;1953;US;119;Romance-Comedy-Drama;BW;Amazon;IMDB;Goog
+639;680;638;Fires Were Started;Jennings, Humphrey;1943;UK;80;Documentary-Drama;BW;Amazon;IMDB;Goog
+640;607;552;Outskirts [1933];Barnet, Boris;1933;USSR;98;War-Drama;BW;Amazon;IMDB;Goog
+641;609;602;Diner;Levinson, Barry;1982;US;110;Drama-Comedy;Col;Amazon;IMDB;Goog
+642;653;697;Rushmore;Anderson, Wes;1998;US;93;Comedy;Col;Amazon;IMDB;Goog
+643;627;604;Land Without Bread;Buñuel, Luis;1932;Spain;28;Documentary-Short-Drama;BW;Amazon;IMDB;Goog
+644;631;652;Morocco;von Sternberg, Josef;1930;US;92;War-Romance-Drama;BW;Amazon;IMDB;Goog
+645;612;588;Sauve qui peut (la vie);Godard, Jean-Luc;1980;France-Switzerland;87;Drama;Col;Amazon;IMDB;Goog
+646;655;753;Talk to Her;Almodóvar, Pedro;2002;Spain;112;Romance-Drama;Col;Amazon;IMDB;Goog
+647;634;586;Sawdust and Tinsel;Bergman, Ingmar;1953;Sweden;92;Drama;BW;Amazon;IMDB;Goog
+648;614;614;Smiles of a Summer Night;Bergman, Ingmar;1955;Sweden;108;Romance-Comedy;BW;Amazon;IMDB;Goog
+649;---;---;Secrets & Lies;Leigh, Mike;1995;UK;142;Drama-Comedy;Col;Amazon;IMDB;Goog
+650;615;598;Storm Over Asia;Pudovkin, Vsevolod;1928;Russia;93;Historical-Drama-Action;BW;Amazon;IMDB;Goog
+651;688;696;Sorrow and the Pity, The;Ophüls, Marcel;1970;France-Switzerland-Germany;260;Documentary-War-Historical;BW;Amazon;IMDB;Goog
+652;624;677;Shock Corridor;Fuller, Sam;1963;US;101;Drama-Mystery;BW;Amazon;IMDB;Goog
+653;635;695;Dr. Mabuse, The Gambler;Lang, Fritz;1922;Germany;270;Thriller-Mystery-Crime;BW;Amazon;IMDB;Goog
+654;659;658;Threepenny Opera, The;Pabst, G.W.;1931;Germany;112;Opera-Musical-Comedy;BW;Amazon;IMDB;Goog
+655;633;584;Phantom of Liberty, The;Buñuel, Luis;1974;France;104;Drama-Comedy-Avant Garde;Col;Amazon;IMDB;Goog
+656;647;626;Blood Simple;Coen, Joel and Ethan Coen;1984;US;97;Thriller-Drama-Crime;Col;Amazon;IMDB;Goog
+657;636;611;End of Summer, The;Ozu, Yasujiro;1961;Japan;103;Drama;Col-BW;Amazon;IMDB;Goog
+658;628;578;Hart of London, The;Chambers, Jack;1970;Canada;80;Avant-Garde;Col-BW;Amazon;IMDB;Goog
+659;629;625;Woman Next Door, The;Truffaut, François;1981;France;106;Romance-Drama;Col;Amazon;IMDB;Goog
+660;681;678;All About My Mother;Almodóvar, Pedro;1999;Spain-France;101;Drama-Comedy;Col;Amazon;IMDB;Goog
+661;717;709;Donnie Darko;Kelly, Richard;2001;US;112;Fantasy-Drama;Col;Amazon;IMDB;Goog
+662;632;834;Chienne, La;Renoir, Jean;1931;France;95;Drama;BW;Amazon;IMDB;Goog
+663;724;756;Thin Blue Line, The;Morris, Errol;1988;US;96;Documentary;Col;Amazon;IMDB;Goog
+664;658;646;Mother [1926];Pudovkin, Vsevolod;1926;USSR;70;Drama;BW;Amazon;IMDB;Goog
+665;660;632;Gentlemen Prefer Blondes;Hawks, Howard;1953;US;91;Romance-Musical-Comedy;Col;Amazon;IMDB;Goog
+666;637;601;Splendor in the Grass;Kazan, Elia;1961;US;124;Drama;Col;Amazon;IMDB;Goog
+667;638;590;Verdict, The [1982];Lumet, Sidney;1982;US;129;Drama;Col;Amazon;IMDB;Goog
+668;743;681;Fallen Idol, The;Reed, Carol;1948;UK;94;Thriller-Drama;BW;Amazon;IMDB;Goog
+669;640;634;Boudu Saved from Drowning;Renoir, Jean;1932;France;87;Comedy;BW;Amazon;IMDB;Goog
+670;686;717;Pickup on South Street;Fuller, Sam;1953;US;80;Spy-Crime;BW;Amazon;IMDB;Goog
+671;661;612;Man of the West;Mann, Anthony;1958;US;100;Western;Col;Amazon;IMDB;Goog
+672;641;702;Big Deal on Madonna Street;Monicelli, Mario;1958;Italy;91;Crime-Comedy;BW;Amazon;IMDB;Goog
+673;679;628;Carnival in Flanders;Feyder, Jacques;1935;France;95;Romance-Historical-Comedy;BW;Amazon;IMDB;Goog
+674;644;621;Amants du Pont-Neuf, Les;Carax, Lèos;1991;France;126;Drama;Col;Amazon;IMDB;Goog
+675;645;710;Histoire(s) du  cinéma;Godard, Jean-Luc;1998;France;265;Documentary;Col-BW;Amazon;IMDB;Goog
+676;671;686;Belle noiseuse, La;Rivette, Jacques;1991;France;240;Drama;Col;Amazon;IMDB;Goog
+677;676;633;Godfather Part III, The;Coppola, Francis;1990;US;161;Drama-Crime;Col;Amazon;IMDB;Goog
+678;694;712;Princess Bride, The;Reiner, Rob;1987;US;98;Comedy-Family-Adventure;Col;Amazon;IMDB;Goog
+679;678;781;Magnolia;Anderson, Paul Thomas;1999;US;188;Drama;Col-BW;Amazon;IMDB;Goog
+680;649;622;Ghost and Mrs. Muir, The;Mankiewicz, Joseph L.;1947;US;104;Romance-Fantasy;BW;Amazon;IMDB;Goog
+681;651;810;Shanghai Gesture, The;von Sternberg, Josef;1941;US;98;Crime-Drama;BW;Amazon;IMDB;Goog
+682;698;723;Wind Will Carry Us, The;Kiarostami, Abbas;1999;France-Iran;118;Drama;Col;Amazon;IMDB;Goog
+683;702;665;National Lampoon's Animal House;Landis, John;1978;US;109;Comedy;Col;Amazon;IMDB;Goog
+684;667;640;Heimat [TV];Reitz, Edgar;1984;Germany;940;Drama;Col-BW;Amazon;IMDB;Goog
+685;654;605;Unfaithfully Yours [1948];Sturges, Preston;1948;US;105;Comedy;BW;Amazon;IMDB;Goog
+686;689;704;Royal Tenenbaums, The;Anderson, Wes;2001;US;109;Drama-Comedy;Col;Amazon;IMDB;Goog
+687;656;609;Angel [1937];Lubitsch, Ernst;1937;US;91;Drama-Comedy-Romance;BW;Amazon;IMDB;Goog
+688;706;662;Gimme Shelter;Maysles, Albert/David Maysles/Charlotte Zwerin;1970;US;91;Documentary-Musical-Historical;Col;Amazon;IMDB;Goog
+689;662;613;Daisies;Chytilová, Vera;1966;Czechoslovakia;76;Drama-Comedy-Avant Garde;Col-BW;Amazon;IMDB;Goog
+690;683;635;Gilda;Vidor, Charles;1946;US;110;Thriller-Drama;BW;Amazon;IMDB;Goog
+691;704;714;Red Beard;Kurosawa, Akira;1965;Japan;185;Drama;BW;Amazon;IMDB;Goog
+692;---;---;Vengeance is Mine;Imamura, Shohei;1979;Japan;129;Thriller-Crime-Drama;Col;Amazon;IMDB;Goog
+693;663;750;Trial, The;Welles, Orson;1963;France-Germany-Italy;118;Drama-Fantasy-Thriller;BW;Amazon;IMDB;Goog
+694;665;616;Ludwig;Visconti, Luchino;1973;France-Germany-Italy;173;Drama-Biography-Historical;Col;Amazon;IMDB;Goog
+695;772;745;Naked Spur, The;Mann, Anthony;1953;US;91;Western;Col;Amazon;IMDB;Goog
+696;666;644;Anatahan;von Sternberg, Josef;1953;Japan;90;War-Drama;BW;Amazon;IMDB;Goog
+697;682;659;Chronicle of Anna Magdalena Bach, The;Straub, Jean-Marie;1968;West Germany-Italy;94;Drama-Historical-Musical;BW;Amazon;IMDB;Goog
+698;693;742;Private Life of Sherlock Holmes, The;Wilder, Billy;1970;US;125;Mystery-Comedy-Drama;Col;Amazon;IMDB;Goog
+699;670;679;Green Ray, The;Rohmer, Eric;1986;France;96;Romance-Drama;BW;Amazon;IMDB;Goog
+700;722;689;Usual Suspects, The;Singer, Bryan;1995;US;105;Thriller-Mystery-Crime;Col;Amazon;IMDB;Goog
+701;673;629;Hôtel Terminus;Ophüls, Marcel;1987;US;267;Documentary-Historical-War;Col;Amazon;IMDB;Goog
+702;674;643;Taste of Cherry, A;Kiarostami, Abbas;1997;Iran;99;Drama;Col;Amazon;IMDB;Goog
+703;675;623;Miracle of Morgan's Creek, The;Sturges, Preston;1944;US;99;Comedy;BW;Amazon;IMDB;Goog
+704;677;636;Ronde, La;Ophüls, Max;1950;France;97;Drama;BW;Amazon;IMDB;Goog
+705;699;683;Pakeezah;Amrohi, Kamal;1972;India;150;Drama;Col;Amazon;IMDB;Goog
+706;710;703;Player, The;Altman, Robert;1992;US;123;Comedy;Col;Amazon;IMDB;Goog
+707;690;645;Not Reconciled;Straub, Jean-Marie;1965;West Germany;53;Drama;BW;Amazon;IMDB;Goog
+708;731;682;Yellow Earth;Chen Kaige;1984;China;89;Drama-Political;Col;Amazon;IMDB;Goog
+709;734;680;Last Temptation of Christ, The;Scorsese, Martin;1988;US;164;Religious;Col;Amazon;IMDB;Goog
+710;739;675;Straw Dogs;Peckinpah, Sam;1971;US;113;Crime-Drama-Thriller;Col;Amazon;IMDB;Goog
+711;684;754;Early Summer;Ozu, Yasujiro;1951;Japan;135;Drama;BW;Amazon;IMDB;Goog
+712;726;739;Pan's Labyrinth;del Toro, Guillermo;2006;Spain-Mexico-US;120;Drama-Fantasy-Thriller;Col;Amazon;IMDB;Goog
+713;---;---;Rififi;Dassin, Jules;1955;France;115;Crime;BW;Amazon;IMDB;Goog
+714;738;673;Magnificent Seven, The;Sturges, John;1960;US;126;Western;Col;Amazon;IMDB;Goog
+715;687;639;Woman in the Window, The;Lang, Fritz;1944;US;99;Thriller;BW;Amazon;IMDB;Goog
+716;691;653;Design for Living;Lubitsch, Ernst;1933;US;90;Romance-Comedy;BW;Amazon;IMDB;Goog
+717;692;700;There's Always Tomorrow;Sirk, Douglas;1956;US;84;Drama;BW;Amazon;IMDB;Goog
+718;744;755;Lost in Translation;Coppola, Sofia;2003;US-Japan;102;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+719;715;693;Kaagaz Ke Phool;Dutt, Guru;1959;India;148;Romance-Drama;BW;Amazon;IMDB;Goog
+720;719;713;Flowers of Shanghai;Hou Hsiao-hsien;1998;Taiwan;130;Drama;Col;Amazon;IMDB;Goog
+721;---;---;Audition;Miike, Takashi;1999;Japan-South Korea;115;Thriller-Horror-Drama;Col;Amazon;IMDB;Goog
+722;721;---;Platform;Jia Zhangke;2000;Hong Kong-Japan-France-Netherlands-Switzerland;154;Drama-Historical;Col;Amazon;IMDB;Goog
+723;768;715;My Fair Lady;Cukor, George;1964;US;170;Musical-Comedy-Romance;Col;Amazon;IMDB;Goog
+724;695;663;Faster, Pussycat! Kill! Kill!;Meyer, Russ;1966;US;84;Drama-Comedy-Action;Col;Amazon;IMDB;Goog
+725;960;904;Black Orpheus;Camus, Marcel;1959;Brazil-France;103;Drama-Romance;Col;Amazon;IMDB;Goog
+726;697;720;Hannah and Her Sisters;Allen, Woody;1986;US;106;Drama-Comedy-Romance;Col;Amazon;IMDB;Goog
+727;700;649;Mon oncle d'Amérique;Resnais, Alain;1980;France;123;Drama-Comedy;Col;Amazon;IMDB;Goog
+728;701;763;Plácido;Berlanga, Luis García;1961;Spain;85;Comedy;BW;Amazon;IMDB;Goog
+729;730;667;Puppetmaster, The;Hou Hsiao-hsien;1993;Taiwan;141;Drama-Biography;Col;Amazon;IMDB;Goog
+730;753;726;Black Sunday;Bava, Mario;1960;Italy;83;Horror;BW;Amazon;IMDB;Goog
+731;---;---;Short Film About Killing, A;Kieslowski, Krszystof;1987;Poland;85;Drama-Crime;Col;Amazon;IMDB;Goog
+732;732;813;A.I. Artificial Intelligence;Spielberg, Steven;2001;US;145;Science Fiction-Drama;Col;Amazon;IMDB;Goog
+733;746;790;Memento;Nolan, Christopher;2000;US;113;Thriller-Mystery-Drama;Col;Amazon;IMDB;Goog
+734;733;669;Ace in the Hole;Wilder, Billy;1951;US;112;Drama;BW;Amazon;IMDB;Goog
+735;735;671;Gandhi;Attenborough, Richard;1982;UK;188;Drama-Biography-Historical;Col;Amazon;IMDB;Goog
+736;696;692;Casino;Scorsese, Martin;1995;US;182;Drama-Crime;Col;Amazon;IMDB;Goog
+737;707;892;Nazarín;Buñuel, Luis;1958;Mexico;94;Religious-Drama;BW;Amazon;IMDB;Goog
+738;737;672;Orlando;Potter, Sally;1992;UK-Russia-France-Italy-Netherlands;93;Historical-Drama-Fantasy;Col;Amazon;IMDB;Goog
+739;853;801;Broadway Danny Rose;Allen, Woody;1984;US;86;Comedy;BW;Amazon;IMDB;Goog
+740;708;761;Avanti!;Wilder, Billy;1972;US;144;Comedy;Col;Amazon;IMDB;Goog
+741;741;676;Dead Poets Society;Weir, Peter;1989;US;128;Drama;Col;Amazon;IMDB;Goog
+742;711;706;Oldboy;Park Chan-wook;2003;Korea;120;Action-Mystery-Thriller;Col;Amazon;IMDB;Goog
+743;712;666;Misfits, The;Huston, John;1961;US;124;Western-Romance-Drama;BW;Amazon;IMDB;Goog
+744;713;---;Hawks and the Sparrows, The;Pasolini, Pier Paolo;1966;Italy;88;Comedy-Political;BW;Amazon;IMDB;Goog
+745;716;737;Sun Shines Bright, The;Ford, John;1953;US;90;Drama-Comedy;BW;Amazon;IMDB;Goog
+746;685;656;Firemen's Ball, The;Forman, Milos;1967;Czechoslovakia;73;Comedy;Col;Amazon;IMDB;Goog
+747;718;---;Gunga Din;Stevens, George;1939;US;117;War-Adventure-Action;BW;Amazon;IMDB;Goog
+748;811;878;Festen;Vinterberg, Thomas;1998;Denmark;105;Drama;Col;Amazon;IMDB;Goog
+749;755;727;Hour of the Wolf;Bergman, Ingmar;1967;Sweden;88;Horror-Drama;BW;Amazon;IMDB;Goog
+750;720;668;Hana-Bi;Kitano, Takeshi;1997;Japan;103;Drama-Crime;Col;Amazon;IMDB;Goog
+751;789;732;Limite;Peixoto, Mario;1931;Brazil;120;Drama;BW;Amazon;IMDB;Goog
+752;778;751;Fish Called Wanda, A;Crichton, Charles;1988;UK;108;Romance-Crime-Comedy;Col;Amazon;IMDB;Goog
+753;---;---;Harlan County, U.S.A.;Kopple, Barbara;1976;US;103;Documentary;Col;Amazon;IMDB;Goog
+754;727;---;From Here to Eternity;Zinnemann, Fred;1953;US;118;War-Drama-Romance;BW;Amazon;IMDB;Goog
+755;---;---;Marketa Lazarová;Vlácil, Frantisek;1967;Czechoslovakia;162;Romance-Drama;BW;Amazon;IMDB;Goog
+756;781;787;Dazed and Confused;Linklater, Richard;1993;US;94;Drama;Col;Amazon;IMDB;Goog
+757;770;772;Pursued;Walsh, Raoul;1947;US;101;Western-Thriller;BW;Amazon;IMDB;Goog
+758;728;705;Actor's Revenge, An;Ichikawa, Kon;1963;Japan;114;Drama;Col;Amazon;IMDB;Goog
+759;729;698;Under the Roofs of Paris;Clair, René;1930;France;92;Comedy-Drama-Musical;BW;Amazon;IMDB;Goog
+760;754;759;Dances with Wolves;Costner, Kevin;1990;US;181;Western;Col;Amazon;IMDB;Goog
+761;760;701;Moonfleet;Lang, Fritz;1955;US;89;Adventure-Drama;Col;Amazon;IMDB;Goog
+762;736;734;Night of the Demon;Tourneur, Jacques;1957;UK;82;Horror;BW;Amazon;IMDB;Goog
+763;831;914;Se7en;Fincher, David;1995;US;127;Thriller-Mystery-Drama;Col;Amazon;IMDB;Goog
+764;776;724;Robocop;Verhoeven, Paul;1987;US;103;Science Fiction-Crime;Col;Amazon;IMDB;Goog
+765;740;707;Virgin Spring, The;Bergman, Ingmar;1959;Sweden;88;Drama;BW;Amazon;IMDB;Goog
+766;773;875;Punch-Drunk Love;Anderson, Paul Thomas;2002;US;95;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+767;859;805;Man in the White Suit, The;Mackendrick, Alexander;1951;UK;84;Comedy;BW;Amazon;IMDB;Goog
+768;742;738;Rise to Power of Louis XIV, The;Rossellini, Roberto;1966;France;100;Drama-Biography-Historical;Col;Amazon;IMDB;Goog
+769;752;708;Hatari!;Hawks, Howard;1962;US;159;Drama;Col;Amazon;IMDB;Goog
+770;775;783;Crash [1996];Cronenberg, David;1996;Canada;100;Drama;Col;Amazon;IMDB;Goog
+771;882;819;Times of Harvey Milk, The;Epstein, Rob;1984;US;87;Documentary-Historical-Biography;Col;Amazon;IMDB;Goog
+772;745;684;Tom, Tom the Piper's Son;Jacobs, Ken;1969;US;86;Avant-Garde;BW;Amazon;IMDB;Goog
+773;---;---;Out 1, noli me tangere;Rivette, Jacques;1971;France;729;Comedy-Drama-Thriller;Col-BW;Amazon;IMDB;Goog
+774;748;687;Ceddo;Sembene, Ousmane;1976;Senegal;117;Drama-Politcal-Avant Garde;Col;Amazon;IMDB;Goog
+775;798;776;Grave of the Fireflies;Takahata, Isao;1988;Japan;93;Animated-War-Drama;Col;Amazon;IMDB;Goog
+776;749;688;Johnny Got His Gun;Trumbo, Dalton;1971;US;111;War-Drama;Col;Amazon;IMDB;Goog
+777;751;690;Witness;Weir, Peter;1985;US;112;Crime-Drama-Romance;Col;Amazon;IMDB;Goog
+778;765;860;Lost Highway;Lynch, David;1996;US;135;Mystery;Col;Amazon;IMDB;Goog
+779;757;804;Requiem for a Dream;Aronofsky, Darren;2000;US;100;Drama;Col;Amazon;IMDB;Goog
+780;803;779;Saving Private Ryan;Spielberg, Steven;1998;US;169;War-Drama-Action;Col;Amazon;IMDB;Goog
+781;---;---;Round-Up, The;Jancsó, Miklós;1965;Hungary;94;Political-Drama-War;BW;Amazon;IMDB;Goog
+782;795;791;Berlin: Symphony of a Great City;Ruttmann, Walter;1927;Germany;65;Documentary;BW;Amazon;IMDB;Goog
+783;787;780;Lord of the Rings: The Fellowship of the Ring, The;Jackson, Peter;2001;US-New Zealand;178;Fantasy-Adventure;Col;Amazon;IMDB;Goog
+784;756;728;Docks of New York, The;von Sternberg, Josef;1928;US;76;Romance-Drama-Crime;BW;Amazon;IMDB;Goog
+785;758;699;O Lucky Man!;Anderson, Lindsay;1973;UK;173;Fantasy-Drama-Comedy;Col;Amazon;IMDB;Goog
+786;750;---;Mother and Son;Sokurov, Aleksandr;1997;Russia-Germany;70;Drama;Col;Amazon;IMDB;Goog
+787;759;757;Branded to Kill;Suzuki, Seijun;1966;Japan;91;Crime-Action;BW;Amazon;IMDB;Goog
+788;761;794;Starship Troopers;Verhoeven, Paul;1997;US;129;Science Fiction-Action-Adventure-War;Col;Amazon;IMDB;Goog
+789;790;733;Man for All Seasons, A;Zinnemann, Fred;1966;UK;120;Drama;Col;Amazon;IMDB;Goog
+790;762;867;Criminal Life of Archibaldo de la Cruz, The;Buñuel, Luis;1955;Mexico;91;Drama-Crime;BW;Amazon;IMDB;Goog
+791;763;716;Phantom Carriage, The;Sjöström, Victor;1920;Sweden;89;Fantasy-Drama;BW;Amazon;IMDB;Goog
+792;845;815;Fountainhead, The;Vidor, King;1949;US;114;Drama;BW;Amazon;IMDB;Goog
+793;801;---;Caché;Haneke, Michael;2005;France-Austria-Germany-Italy;117;Thriller-Drama;Col;Amazon;IMDB;Goog
+794;---;---;Sleeper;Allen, Woody;1973;US;88;Science Fiction-Comedy;Col;Amazon;IMDB;Goog
+795;764;718;Woman of Paris, A;Chaplin, Charles;1923;US;81;Drama;BW;Amazon;IMDB;Goog
+796;824;---;Landscape in the Mist;Angelopoulos, Theo;1988;Greece-France-Italy;125;Drama;Col;Amazon;IMDB;Goog
+797;807;---;Y tu mamá también;Cuarón, Alfonso;2001;Mexico;105;Drama-Comedy;Col;Amazon;IMDB;Goog
+798;785;730;Man from Laramie, The;Mann, Anthony;1955;US;104;Western;Col;Amazon;IMDB;Goog
+799;779;752;My Own Private Idaho;Van Sant, Gus;1991;US;102;Drama;Col;Amazon;IMDB;Goog
+800;796;749;Reckless Moment, The;Ophüls, Max;1949;US;82;Drama-Crime;BW;Amazon;IMDB;Goog
+801;766;711;Zelig;Allen, Woody;1983;US;79;Comedy;Col-BW;Amazon;IMDB;Goog
+802;829;886;Gleaners & I, The;Varda, Agnès;2000;France;82;Documentary;Col;Amazon;IMDB;Goog
+803;767;587;Hellzapoppin';Potter, H.C.;1941;US;84;Comedy;BW;Amazon;IMDB;Goog
+804;827;774;W.R.: Mysteries of the Organism;Makavejev, Dusan;1971;Yugoslavia;84;Drama-Comedy-Fantasy;Col;Amazon;IMDB;Goog
+805;769;736;Trou, Le;Becker, Jacques;1959;France-Italy;140;Drama-Crime;BW;Amazon;IMDB;Goog
+806;771;---;Burnt by the Sun;Mikhalkov, Nikita;1994;Russia-France;152;Historical-Drama;Col;Amazon;IMDB;Goog
+807;774;722;47 Ronin, The;Mizoguchi, Kenji;1941;Japan;219;Historical-Action-Drama;BW;Amazon;IMDB;Goog
+808;802;784;Subarnarekha;Ghatak, Ritwik;1965;India;143;Drama;BW;Amazon;IMDB;Goog
+809;777;747;You Only Live Once;Lang, Fritz;1937;US;86;Crime;BW;Amazon;IMDB;Goog
+810;780;725;Fellini's Roma;Fellini, Federico;1972;Italy;128;Drama-Comedy;Col;Amazon;IMDB;Goog
+811;806;788;Chronicle of a Summer;Rouch, Jean & Edgar Morin;1960;France;90;Documentary;BW;Amazon;IMDB;Goog
+812;782;744;Shoeshine;De Sica, Vittorio;1946;Italy;93;Drama;BW;Amazon;IMDB;Goog
+813;783;770;While the City Sleeps;Lang, Fritz;1956;US;100;Drama-Crime;BW;Amazon;IMDB;Goog
+814;784;729;Bidone, Il;Fellini, Federico;1955;Italy;92;Drama;BW;Amazon;IMDB;Goog
+815;786;731;Vagabond;Varda, Agnès;1985;France;106;Drama;Col;Amazon;IMDB;Goog
+816;---;---;Dodsworth;Wyler, William;1936;US;101;Romance-Drama;BW;Amazon;IMDB;Goog
+817;---;---;Yol;Gören, Serif;1982;Switzerland-Turkey;111;Drama;Col;Amazon;IMDB;Goog
+818;866;---;History of Violence, A;Cronenberg, David;2005;Germany-US;95;Crime-Drama-Thriller;Col;Amazon;IMDB;Goog
+819;788;760;Lusty Men, The;Ray, Nicholas;1952;US;113;Western-Sports-Drama;BW;Amazon;IMDB;Goog
+820;823;850;Who Framed Roger Rabbit?;Zemeckis, Robert;1988;US;103;Mystery-Comedy-Animated;Col;Amazon;IMDB;Goog
+821;---;---;Arrivée d'un train à la Ciotat, L';Lumière, August & Louis Lumière;1895;France;1;Short-Documentary;BW;Amazon;IMDB;Goog
+822;791;---;Angel Face;Preminger, Otto;1953;US;91;Crime;BW;Amazon;IMDB;Goog
+823;851;869;Happy Together;Wong Kar-wai;1997;Hong Kong;97;Romance-Drama;Col;Amazon;IMDB;Goog
+824;816;824;Midnight;Leisen, Mitchell;1939;US;94;Romance-Comedy;BW;Amazon;IMDB;Goog
+825;792;735;Law of Desire;Almodóvar, Pedro;1987;Spain;100;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+826;793;806;War of the Worlds, The;Haskin, Byron;1953;US;85;Science Fiction-Action;Col;Amazon;IMDB;Goog
+827;871;817;Mephisto;Szabó, István;1981;Hungary;135;War-Drama;Col;Amazon;IMDB;Goog
+828;---;---;Mother India;Khan, Mehboob;1957;India;172;Drama-Musical-Family;Col;Amazon;IMDB;Goog
+829;890;829;Loneliness of the Long Distance Runner, The;Richardson, Tony;1962;UK;103;Drama-Sports;BW;Amazon;IMDB;Goog
+830;794;743;Beyond a Reasonable Doubt;Lang, Fritz;1956;US;80;Mystery;BW;Amazon;IMDB;Goog
+831;---;---;Haunting, The;Wise, Robert;1963;US;112;Horror;BW;Amazon;IMDB;Goog
+832;817;782;Purple Rose of Cairo, The;Allen, Woody;1985;US;82;Fantasy-Comedy-Romance;Col;Amazon;IMDB;Goog
+833;828;---;Remains of the Day, The;Ivory, James;1993;UK-US;135;Drama;Col;Amazon;IMDB;Goog
+834;830;807;Yeelen;Cissé, Souleymane;1987;Mali;105;Drama-Adventure-Action;Col;Amazon;IMDB;Goog
+835;797;746;Sugar Cane Alley;Palcy, Euzhan;1983;France;103;Drama;Col;Amazon;IMDB;Goog
+836;---;---;Zabriskie Point;Antonioni, Michelangelo;1970;US;112;Drama;Col;Amazon;IMDB;Goog
+837;---;---;Funny Games [1997];Haneke, Michael;1997;Austria;108;Thriller-Drama;Col;Amazon;IMDB;Goog
+838;725;694;Safe;Haynes, Todd;1995;US;119;Drama;Col;Amazon;IMDB;Goog
+839;---;---;Enfance nue, L';Pialat, Maurice;1968;France;80;Drama;Col;Amazon;IMDB;Goog
+840;799;748;Ordinary People;Redford, Robert;1980;US;123;Drama;Col;Amazon;IMDB;Goog
+841;834;777;Maîtres fous, Les;Rouch, Jean;1955;France;36;Documentary-Short;Col;Amazon;IMDB;Goog
+842;838;778;Red Sorghum;Zhang Yimou;1987;China;91;Drama;Col;Amazon;IMDB;Goog
+843;800;765;Informer, The;Ford, John;1935;US;91;Drama;BW;Amazon;IMDB;Goog
+844;876;849;Duel;Spielberg, Steven;1971;US;90;Thriller-Action;Col;Amazon;IMDB;Goog
+845;813;762;Red Circle, The;Melville, Jean-Pierre;1970;France-Italy;150;Thriller-Crime;Col;Amazon;IMDB;Goog
+846;804;661;Days and Nights in the Forest;Ray, Satyajit;1969;India;120;Romance-Drama-Comedy;BW;Amazon;IMDB;Goog
+847;841;799;Bête humaine, La;Renoir, Jean;1938;France;99;Drama;BW;Amazon;IMDB;Goog
+848;875;873;Long Day Closes, The;Davies, Terence;1992;UK;83;Drama;Col;Amazon;IMDB;Goog
+849;805;786;Assault on Precinct 13 [1976];Carpenter, John;1976;US;90;Action;Col;Amazon;IMDB;Goog
+850;840;841;El Dorado [1967];Hawks, Howard;1967;US;126;Western;Col;Amazon;IMDB;Goog
+851;---;---;Russian Ark;Sokurov, Aleksandr;2002;Russia-Germany-Japan-Canada-Finland-Denmark;96;Fantasy-Drama;Col;Amazon;IMDB;Goog
+852;826;792;Kameradschaft;Pabst, G.W.;1931;Germany;93;Drama-Disaster;BW;Amazon;IMDB;Goog
+853;808;789;Caro diario;Moretti, Nanni;1994;Italy-France;100;Comedy;Col;Amazon;IMDB;Goog
+854;809;758;Abraham's Valley;de Oliveira, Manoel;1993;Portugal-France-Switzerland;189;Drama;Col;Amazon;IMDB;Goog
+855;843;---;Quince Tree of the Sun;Erice, Victor;1991;Spain;139;Documentary-Biography-Drama;Col;Amazon;IMDB;Goog
+856;846;793;Shanghai Express;von Sternberg, Josef;1932;US;80;Drama-Adventure;BW;Amazon;IMDB;Goog
+857;---;---;Big Red One, The;Fuller, Sam;1980;US;113;War-Action-Drama;Col;Amazon;IMDB;Goog
+858;---;---;My Man Godfrey;La Cava, Gregory;1936;US;95;Romance-Comedy;BW;Amazon;IMDB;Goog
+859;812;879;Samson and Delilah [1949];DeMille, Cecil B.;1949;US;128;Religious-Drama-Romance;Col;Amazon;IMDB;Goog
+860;835;---;New World, The;Malick, Terrence;2005;US;135;Drama-Historical-Romance;Col;Amazon;IMDB;Goog
+861;820;766;Indian Tomb, The;Lang, Fritz;1958;France-Italy-West Germany;95;Adventure;Col;Amazon;IMDB;Goog
+862;870;846;Pink Flamingos;Waters, John;1972;US;92;Comedy-Crime;Col;Amazon;IMDB;Goog
+863;814;897;Lacombe, Lucien;Malle, Louis;1974;France;137;War-Drama;Col;Amazon;IMDB;Goog
+864;---;---;Wanda;Loden, Barbara;1970;US;105;Drama-Crime;Col;Amazon;IMDB;Goog
+865;---;---;Awaara;Kapoor, Raj;1951;India;193;Drama-Musical-Romance;BW;Amazon;IMDB;Goog
+866;893;868;Lone Star;Sayles, John;1995;US;134;Mystery-Drama;Col;Amazon;IMDB;Goog
+867;815;764;Peter Ibbetson;Hathaway, Henry;1935;US;88;Romance-Fantasy-Drama;BW;Amazon;IMDB;Goog
+868;---;---;Edvard Munch [TV];Watkins, Peter;1974;Sweden-Norway;210;Drama-Biography;Col;Amazon;IMDB;Goog
+869;---;---;In Cold Blood;Brooks, Richard;1967;US;134;Crime-Biography;BW;Amazon;IMDB;Goog
+870;818;798;Big Parade, The;Vidor, King;1925;US;141;War-Romance-Drama;BW;Amazon;IMDB;Goog
+871;819;800;Art of Vision, The;Brakhage, Stan;1964;US;248;Avant-Garde;Col;Amazon;IMDB;Goog
+872;821;767;Anatomy of a Murder;Preminger, Otto;1959;US;160;Drama;BW;Amazon;IMDB;Goog
+873;822;827;Murder by Contract;Lerner, Irving;1958;US;81;Thriller-Drama-Crime;BW;Amazon;IMDB;Goog
+874;---;---;Atlantic City;Malle, Louis;1980;Canada-France;104;Crime;Col;Amazon;IMDB;Goog
+875;873;937;Million Dollar Baby;Eastwood, Clint;2004;US;137;Drama;Col;Amazon;IMDB;Goog
+876;842;797;Sweet Hereafter, The;Egoyan, Atom;1997;Canada;112;Drama;Col;Amazon;IMDB;Goog
+877;825;771;Judex [1963];Franju, Georges;1963;France;95;Fantasy-Adventure-Action;BW;Amazon;IMDB;Goog
+878;914;854;Tom Jones;Richardson, Tony;1963;UK;129;Romance-Comedy-Adventure;Col;Amazon;IMDB;Goog
+879;---;---;Werckmeister Harmonies;Tarr, Béla;2000;Hungary-Germany-France-Switzerland-Italy;145;Drama;BW;Amazon;IMDB;Goog
+880;864;812;Wrong Man, The;Hitchcock, Alfred;1956;US;105;Drama-Crime;BW;Amazon;IMDB;Goog
+881;832;775;Saragossa Manuscript, The;Has, Wojciech;1964;Poland;124;Drama-Mystery-Fantasy;BW;Amazon;IMDB;Goog
+882;836;831;Out 1: Spectre;Rivette, Jacques;1972;France;255;Drama-Avant Garde;Col;Amazon;IMDB;Goog
+883;---;---;Night and the City;Dassin, Jules;1950;UK-US;101;Crime-Sport;BW;Amazon;IMDB;Goog
+884;837;871;Nutty Professor, The [1963];Lewis, Jerry;1963;US;107;Comedy;Col;Amazon;IMDB;Goog
+885;850;922;Death of Mr. Lazarescu, The;Puiu, Cristi;2005;Romania;154;Drama;Col;Amazon;IMDB;Goog
+886;839;823;Marquise of O, The;Rohmer, Eric;1976;France-West Germany;102;Drama-Historical;Col;Amazon;IMDB;Goog
+887;---;---;Ladykillers, The [1955];Mackendrick, Alexander;1955;UK;90;Crime-Comedy;Col;Amazon;IMDB;Goog
+888;---;---;Star Spangled to Death;Jacobs, Ken;2004;US;402;Avant-Garde;Col-BW;Amazon;IMDB;Goog
+889;---;---;4 Months, 3 Weeks and 2 Days;Mungiu, Cristian;2007;Romania-Netherlands-France-Germany;113;Drama;Col;Amazon;IMDB;Goog
+890;833;814;Red and the White, The;Jancsó, Miklós;1967;Hungary-USSR;90;War-Drama;BW;Amazon;IMDB;Goog
+891;887;859;Wild at Heart;Lynch, David;1990;US;127;Romance-Drama-Crime;Col;Amazon;IMDB;Goog
+892;874;848;Year of Living Dangerously, The;Weir, Peter;1983;Australia;115;Romance-Adventure;Col;Amazon;IMDB;Goog
+893;---;---;Flaming Creatures;Smith, Jack;1963;US;43;Drama;BW;Amazon;IMDB;Goog
+894;844;816;Femme est une femme, Une;Godard, Jean-Luc;1961;France;83;Drama-Comedy-Musical;Col;Amazon;IMDB;Goog
+895;913;887;Diary for Timothy, A;Jennings, Humphrey;1945;UK;40;Documentary-Short;BW;Amazon;IMDB;Goog
+896;847;796;Destiny;Lang, Fritz;1921;Germany;105;Fantasy;BW;Amazon;IMDB;Goog
+897;848;880;Europa '51;Rossellini, Roberto;1951;Italy;110;Drama;BW;Amazon;IMDB;Goog
+898;---;---;Killers, The [1946];Siodmak, Robert;1946;US;105;Crime;BW;Amazon;IMDB;Goog
+899;849;830;Spider's Stratagem, The;Bertolucci, Bernardo;1970;Italy;100;Mystery-Drama;Col;Amazon;IMDB;Goog
+900;868;821;Nibelungen, Die;Lang, Fritz;1924;Germany;269;Fantasy-Adventure;BW;Amazon;IMDB;Goog
+901;884;822;New York, New York;Scorsese, Martin;1977;US;164;Musical;Col;Amazon;IMDB;Goog
+902;---;---;Bellissima;Visconti, Luchino;1951;Italy;112;Drama;BW;Amazon;IMDB;Goog
+903;---;---;Age of the Earth, The;Rocha, Glauber;1980;Brazil;158;Political-Drama-Religious;Col;Amazon;IMDB;Goog
+904;---;---;To Sleep with Anger;Burnett, Charles;1990;US;102;Drama;Col;Amazon;IMDB;Goog
+905;747;685;Heiress, The;Wyler, William;1949;US;115;Drama;BW;Amazon;IMDB;Goog
+906;852;826;Dracula [1931];Browning, Tod;1931;US;75;Horror-Fantasy;BW;Amazon;IMDB;Goog
+907;854;802;Opening Night;Cassavetes, John;1977;US;144;Drama;Col;Amazon;IMDB;Goog
+908;911;---;Babe;Noonan, Chris;1995;Australia;94;Fantasy-Comedy-Family;Col;Amazon;IMDB;Goog
+909;856;843;Three Colours: White;Kieslowski, Krszystof;1993;France-Poland;92;Drama;Col;Amazon;IMDB;Goog
+910;---;---;Organiser, The;Monicelli, Mario;1963;Italy;126;Drama-Crime-Political;BW;Amazon;IMDB;Goog
+911;---;---;Incredibles, The;Bird, Brad;2004;US;121;Family-Animated-Adventure;Col-BW;Amazon;IMDB;Goog
+912;857;820;Childhood of Maxim Gorky, The;Donskoi, Mark;1938;USSR;99;Drama-Biography;BW;Amazon;IMDB;Goog
+913;858;910;Bridges of Madison County, The;Eastwood, Clint;1995;US;135;Romance-Drama;Col;Amazon;IMDB;Goog
+914;---;---;On Dangerous Ground;Ray, Nicholas;1951;US;82;Crime-Drama;BW;Amazon;IMDB;Goog
+915;908;---;American Friend, The;Wenders, Wim;1977;France-Germany-US;127;Mystery-Crime;Col;Amazon;IMDB;Goog
+916;860;808;Ju Dou;Zhang Yimou;1990;Japan-China;95;Romance-Historical-Drama;Col;Amazon;IMDB;Goog
+917;861;809;Port of Shadows;Carné, Marcel;1938;France;91;Drama;BW;Amazon;IMDB;Goog
+918;863;884;Ed Wood;Burton, Tim;1994;US;124;Drama-Comedy-Biography;BW;Amazon;IMDB;Goog
+919;862;811;Queen Kelly;von Stroheim, Erich;1928;US;96;Drama;BW;Amazon;IMDB;Goog
+920;865;---;Medium Cool;Wexler, Haskell;1969;US;110;Political-Drama;Col;Amazon;IMDB;Goog
+921;867;837;Touki Bouki;Mambéty, Djibril Diop;1973;Senegal;85;Drama;Col;Amazon;IMDB;Goog
+922;897;842;3 Women;Altman, Robert;1977;US;125;Drama;Col;Amazon;IMDB;Goog
+923;---;---;Au revoir les enfants;Malle, Louis;1987;France;103;War-Drama;Col;Amazon;IMDB;Goog
+924;869;844;Coeur en hiver, Un;Sautet, Claude;1991;France;105;Drama;Col;Amazon;IMDB;Goog
+925;---;---;Entr'acte;Clair, René;1924;France;22;Short;BW;Amazon;IMDB;Goog
+926;902;847;In the Heat of the Night;Jewison, Norman;1967;US;109;Crime;Col;Amazon;IMDB;Goog
+927;872;---;Commune (Paris, 1871), La;Watkins, Peter;2000;France;345;Drama-Historical;BW;Amazon;IMDB;Goog
+928;877;835;Rio Grande;Ford, John;1950;US;105;Western-War-Romance;BW;Amazon;IMDB;Goog
+929;878;818;Feu follet, Le;Malle, Louis;1963;France;108;Drama;BW;Amazon;IMDB;Goog
+930;903;874;Moana;Flaherty, Robert;1925;US;85;Documentary;BW;Amazon;IMDB;Goog
+931;879;832;Happiness [1934];Medvedkin, Aleksandr;1934;USSR;69;Comedy;BW;Amazon;IMDB;Goog
+932;910;---;Lessons of Darkness;Herzog, Werner;1992;France-Germany;52;Documentary;Col;Amazon;IMDB;Goog
+933;880;836;Collectionneuse, La;Rohmer, Eric;1966;France;88;Romance-Drama-Comedy;Col;Amazon;IMDB;Goog
+934;881;853;Our Daily Bread [1934];Vidor, King;1934;US;74;Drama;BW;Amazon;IMDB;Goog
+935;883;882;Chikamatsu monogatari;Mizoguchi, Kenji;1954;Japan;100;Drama-Romance;BW;Amazon;IMDB;Goog
+936;918;971;Elephant;Van Sant, Gus;2003;US;81;Drama;Col;Amazon;IMDB;Goog
+937;885;870;Plein soleil;Clément, René;1960;France-Italy;119;Thriller-Crime-Drama;Col;Amazon;IMDB;Goog
+938;888;828;Cul-de-sac;Polanski, Roman;1966;UK;111;Thriller-Drama;BW;Amazon;IMDB;Goog
+939;889;862;Wild River;Kazan, Elia;1960;US;110;Drama-Romance;Col;Amazon;IMDB;Goog
+940;907;851;Mädchen in Uniform;Sagan, Leontine;1931;Germany;98;Drama;BW;Amazon;IMDB;Goog
+941;898;---;Henry: Portrait of a Serial Killer;McNaughton, John;1986;US;90;Horror-Crime;Col;Amazon;IMDB;Goog
+942;895;839;Douce;Autant-Lara, Claude;1943;France;111;Romance-Drama;BW;Amazon;IMDB;Goog
+943;896;840;Sorpasso, Il;Risi, Dino;1963;Italy;105;Drama;BW;Amazon;IMDB;Goog
+944;899;845;Ballad of Narayama [1983];Imamura, Shohei;1983;Japan;130;Drama;Col;Amazon;IMDB;Goog
+945;900;872;Second Breath;Melville, Jean-Pierre;1966;France;144;Drama;BW;Amazon;IMDB;Goog
+946;901;861;End of St. Petersburg, The;Pudovkin, Vsevolod;1927;USSR;80;Political-Drama;BW;Amazon;IMDB;Goog
+947;979;948;Stray Dog;Kurosawa, Akira;1949;Japan;122;Thriller-Crime-Drama;BW;Amazon;IMDB;Goog
+948;937;---;Safety Last;Newmeyer, Fred C. & Sam Taylor;1923;US;78;Comedy-Family-Romance;BW;Amazon;IMDB;Goog
+949;987;928;Gold Diggers of 1933;LeRoy, Mervyn;1933;US;96;Musical-Dance-Comedy;BW;Amazon;IMDB;Goog
+950;935;894;Ride Lonesome;Boetticher, Budd;1959;US;73;Western;Col;Amazon;IMDB;Goog
+951;912;923;Amour fou, L';Rivette, Jacques;1968;France;252;Drama;BW;Amazon;IMDB;Goog
+952;942;926;Posto, Il;Olmi, Ermanno;1961;Italy;93;Drama;BW;Amazon;IMDB;Goog
+953;916;881;True Heart Susie;Griffith, D.W.;1919;US;87;Drama-Comedy;BW;Amazon;IMDB;Goog
+954;943;919;Sonatine [1993];Kitano, Takeshi;1993;Japan;94;Drama-Crime-Action;Col;Amazon;IMDB;Goog
+955;920;857;Seconds;Frankenheimer, John;1966;US;106;Thriller-Mystery;BW;Amazon;IMDB;Goog
+956;922;950;Passion of Anna, The;Bergman, Ingmar;1969;Sweden;101;Drama;Col;Amazon;IMDB;Goog
+957;923;876;Veronika Voss;Fassbinder, Rainer Werner;1982;Germany;105;Drama;BW;Amazon;IMDB;Goog
+958;926;864;They Died with Their Boots On;Walsh, Raoul;1941;US;138;Biography-War-Romance;BW;Amazon;IMDB;Goog
+959;927;865;Italian Straw Hat, The;Clair, René;1927;France;105;Comedy;BW;Amazon;IMDB;Goog
+960;945;883;Charade;Donen, Stanley;1963;US;114;Thriller-Romance-Comedy;Col;Amazon;IMDB;Goog
+961;928;866;Corbeau, Le;Clouzot, Henri-Georges;1943;France;92;Mystery-Drama-Thriller;BW;Amazon;IMDB;Goog
+962;930;947;Sur, El;Erice, Victor;1983;Spain-France;95;Romance-Drama;Col;Amazon;IMDB;Goog
+963;932;965;Letter to Three Wives, A;Mankiewicz, Joseph L.;1949;US;103;Drama;BW;Amazon;IMDB;Goog
+964;933;925;Spione;Lang, Fritz;1928;Germany;90;Thriller-Spy;BW;Amazon;IMDB;Goog
+965;934;893;Boucher, Le;Chabrol, Claude;1970;France-Italy;94;Thriller-Drama;Col;Amazon;IMDB;Goog
+966;936;968;Roaring Twenties, The;Walsh, Raoul;1939;US;104;Drama-Crime;BW;Amazon;IMDB;Goog
+967;957;900;Night Moves;Penn, Arthur;1975;US;95;Mystery;Col;Amazon;IMDB;Goog
+968;992;980;Dracula [1958];Fisher, Terence;1958;UK;82;Horror;Col;Amazon;IMDB;Goog
+969;950;889;Under the Bridges;Kaütner, Helmut;1944;Germany;92;Romance-Drama;BW;Amazon;IMDB;Goog
+970;941;909;Seventh Heaven;Borzage, Frank;1927;US;119;Romance-Drama-War;BW;Amazon;IMDB;Goog
+971;990;---;Winchester '73;Mann, Anthony;1950;US;92;Western;BW;Amazon;IMDB;Goog
+972;947;907;Far Country, The;Mann, Anthony;1955;US;97;Western;Col;Amazon;IMDB;Goog
+973;948;952;Late Autumn;Ozu, Yasujiro;1960;Japan;127;Drama;Col;Amazon;IMDB;Goog
+974;953;895;Rose Hobart;Cornell, Joseph;1936;US;20;Short;BW;Amazon;IMDB;Goog
+975;955;924;Way Down East;Griffith, D.W.;1920;US;119;Romance-Drama;BW;Amazon;IMDB;Goog
+976;993;959;Z;Costa-Gavras, Constantin;1969;France;127;Political-Thriller-Historical;Col;Amazon;IMDB;Goog
+977;967;930;Heaven Can Wait [1943];Lubitsch, Ernst;1943;US;112;Romance-Comedy;Col;Amazon;IMDB;Goog
+978;---;984;People on Sunday;Siodmak, Robert & Edgar G. Ulmer;1929;Germany;74;Romance-Documentary-Drama;BW;Amazon;IMDB;Goog
+979;968;911;Female Trouble;Waters, John;1974;US;95;Crime-Comedy;Col;Amazon;IMDB;Goog
+980;970;912;Bend of the River;Mann, Anthony;1952;US;91;Western;Col;Amazon;IMDB;Goog
+981;982;---;Tropical Malady;Weerasethakul, Apichatpong;2004;France-Thailand-Germany-Italy-Switzerland;118;Drama-Fantasy-Romance;Col;Amazon;IMDB;Goog
+982;997;940;Scarlet Street;Lang, Fritz;1945;US;103;Crime;BW;Amazon;IMDB;Goog
+983;971;974;In Praise of Love;Godard, Jean-Luc;2001;France;97;Drama;Col-BW;Amazon;IMDB;Goog
+984;976;944;Leave Her to Heaven;Stahl, John M.;1945;US;110;Romance-Crime-Drama;Col;Amazon;IMDB;Goog
+985;---;---;Louisiana Story;Flaherty, Robert;1948;US;77;Documentary-Drama;BW;Amazon;IMDB;Goog
+986;978;921;Cutter's Way;Passer, Ivan;1981;US;105;Mystery-Drama;Col;Amazon;IMDB;Goog
+987;969;---;Black Cat, The;Ulmer, Edgar G.;1934;US;65;Horror;BW;Amazon;IMDB;Goog
+988;981;942;Devil in the Flesh;Autant-Lara, Claude;1946;France;110;Romance-Drama;BW;Amazon;IMDB;Goog
+989;984;927;Dog Star Man;Brakhage, Stan;1964;US;75;Short-Drama;Col;Amazon;IMDB;Goog
+990;983;953;Unknown, The;Browning, Tod;1927;US;65;Romance-Drama-Horror;BW;Amazon;IMDB;Goog
+991;985;986;Time to Love and a Time to Die, A;Sirk, Douglas;1958;US;132;War-Romance-Drama;Col;Amazon;IMDB;Goog
+992;986;---;Bitter Tea of General Yen, The;Capra, Frank;1933;US;89;Romance-Drama;BW;Amazon;IMDB;Goog
+993;---;946;Variety;Dupont, E.A.;1925;Germany;104;Drama;BW;Amazon;IMDB;Goog
+994;989;958;Kanal;Wajda, Andrzej;1956;Poland;97;War-Drama;BW;Amazon;IMDB;Goog
+995;991;934;Ceremony, The;Oshima, Nagisa;1971;Japan;121;Comedy;Col;Amazon;IMDB;Goog
+996;---;966;Fury;Lang, Fritz;1936;US;94;Drama-Crime;BW;Amazon;IMDB;Goog
+997;998;963;Arsenal;Dovzhenko, Alexander;1929;USSR;78;War-Drama;BW;Amazon;IMDB;Goog
+998;999;961;Strangers When We Meet;Quine, Richard;1960;US;117;Drama-Romance;Col;Amazon;IMDB;Goog
+999;---;985;Forty Guns;Fuller, Sam;1957;US;80;Western;BW;Amazon;IMDB;Goog
+1000;---;973;Toni;Renoir, Jean;1935;France;90;Drama;BW;Amazon;IMDB;Goog
