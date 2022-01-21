@@ -15,7 +15,7 @@ public class Aufgabe1 {
         Connection con = null;
         try {
             String url = "jdbc:postgresql://localhost:9001/jpors001_kino";
-            con = DriverManager.getConnection(url, "jwebe001", "Pasword");
+            con = DriverManager.getConnection(url, "jwebe001", "");
         } catch (SQLException e) {
             System.out.println("Couldn't connect - aborting");
 
@@ -24,20 +24,21 @@ public class Aufgabe1 {
 
         }
         try {
-
+            String s = "";
             Statement stmt = con.createStatement();
             String query = "SELECT * FROM film";
             ResultSet rs = stmt.executeQuery(query);
             System.out.println("Film: ");
             while (rs.next()) {
-                String s = "- " + rs.getString("film_nummer");
-                s = s + " " + rs.getString("datum");
-                s = s + ", " + rs.getString("uhrzeit");
-                s = s + ", " + rs.getString("alters");
+                s = "- " + rs.getString("film_nummer");
+                s = s + " " + rs.getString("titel");
+                s = s + ", " + rs.getString("laenge");
+                s = s + ", " + rs.getString("altersbeschraenkung");
                 System.exit(-1);
 
 
             }
+            System.out.println(s);
 
 
         } catch (SQLException en) {
