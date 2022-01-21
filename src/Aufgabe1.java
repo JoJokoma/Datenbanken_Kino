@@ -31,7 +31,7 @@ public class Aufgabe1 {
         try {
             PreparedStatement filmInsert =  con.prepareStatement("INSERT INTO FILM (TITEL, LAENGE) VALUES (?,?)",Statement.RETURN_GENERATED_KEYS);
             PreparedStatement genreInsert =  con.prepareStatement("INSERT INTO GENRE (GENRE) VALUES (?)");
-            PreparedStatement filmgenre = con.prepareStatement("INSERT INTO GENREFILM (FILM_NUMMER, GENRE_NUMMER)VALUES(?,?)");
+            PreparedStatement filmgenre = con.prepareStatement("INSERT INTO GENREFILM (FILM_NUMMER, GENRE)VALUES(?,?)");
 
             BufferedReader filmreader = new BufferedReader(new FileReader(filmfile.getAbsolutePath()));
             int linecount = 0;
@@ -57,6 +57,7 @@ public class Aufgabe1 {
                    catch(SQLException pw){}
                     filmgenre.setInt(1,filmkey);
                     filmgenre.setString(2,geners[i]);
+                    filmgenre.executeUpdate();
 
                 }
 
